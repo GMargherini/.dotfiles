@@ -1,0 +1,124 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Undo">
+      <i c="103" l="1687794289258" />
+    </e>
+    <e n="CreateDesktopEntry">
+      <i c="1" l="1688905556134" />
+    </e>
+    <e n="Diff.ShowDiff">
+      <i c="1" l="1688910745823" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="35" l="1688905659341" />
+    </e>
+    <e n="EditorDelete">
+      <i c="2" l="1687794363719" />
+    </e>
+    <e n="EditorEnter">
+      <i c="127" l="1687794366677" />
+    </e>
+    <e n="EditorIndentSelection">
+      <i c="1" l="1687794510378" />
+    </e>
+    <e n="EditorLineEnd">
+      <i c="1" l="1687794276799" />
+    </e>
+    <e n="EditorLineStart">
+      <i c="1" l="1687794240272" />
+    </e>
+    <e n="EditorPageDown">
+      <i c="1" l="1687794234536" />
+    </e>
+    <e n="EditorUnindentSelection">
+      <i c="1" l="1687794509002" />
+    </e>
+    <e n="FileChooser.NewFolder">
+      <i c="1" l="1687794062961" />
+    </e>
+    <e n="Git.Log.Branches.Settings">
+      <i c="1" l="1688899828424" />
+    </e>
+    <e n="HideAllWindows">
+      <i c="2" l="1688911871005" />
+    </e>
+    <e n="MoreRunToolbarActions">
+      <i c="4" l="1688906455503" />
+    </e>
+    <e n="Move">
+      <i c="1" l="1687794275756" />
+    </e>
+    <e n="RedesignedRunConfigurationSelector">
+      <i c="1" l="1688508322089" />
+    </e>
+    <e n="Run">
+      <i c="8" l="1688508424868" />
+    </e>
+    <e n="SaveAll">
+      <i c="1" l="1687794248750" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="6" l="1688906786244" />
+    </e>
+    <e n="ShowSettings">
+      <i c="2" l="1688906787588" />
+    </e>
+    <e n="Stop">
+      <i c="2" l="1688508472833" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="1" l="1687793951325" />
+    </e>
+    <e n="com.intellij.execution.ExecutorRegistryImpl$RunSpecifiedConfigExecutorAction">
+      <i c="1" l="1688906457633" />
+    </e>
+    <e n="com.intellij.ide.actions.SettingsEntryPointAction$1">
+      <i c="2" l="1688905844267" />
+    </e>
+    <e n="com.intellij.ide.plugins.newui.TabbedPaneHeaderComponent$3">
+      <i c="1" l="1688905860573" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="3" l="1688904712004" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$TrafficLightAction">
+      <i c="1" l="1687794299381" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="20" l="1688912205539" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="19" l="1688910889343" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="4" l="1688906783647" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="1" l="1688906513792" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$AddButton">
+      <i c="1" l="1687794556837" />
+    </e>
+    <e n="com.intellij.ui.components.BasicOptionButtonUI$ActionDelegate">
+      <i c="1" l="1688905850256" />
+    </e>
+    <e n="com.jetbrains.python.sdk.AddLocalInterpreterAction">
+      <i c="4" l="1688508206681" />
+    </e>
+    <e n="com.jetbrains.python.sdk.PySdkPopupFactory$InterpreterSettingsAction">
+      <i c="1" l="1687794029121" />
+    </e>
+    <e n="com.jetbrains.python.sdk.PySdkPopupFactory$createPopup$3">
+      <i c="1" l="1687794026685" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="1" l="1688508323497" />
+    </e>
+    <e n="git4idea.ui.branch.dashboard.BranchesDashboardActions$FetchAction">
+      <i c="3" l="1688899806269" />
+    </e>
+    <e n="git4idea.ui.branch.dashboard.BranchesDashboardActions$UpdateSelectedBranchAction">
+      <i c="1" l="1688899832564" />
+    </e>
+  </component>
+</application>

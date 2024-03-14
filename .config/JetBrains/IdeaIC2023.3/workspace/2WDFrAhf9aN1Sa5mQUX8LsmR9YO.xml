@@ -1,0 +1,642 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="task2" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/broker/src/main/java/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/broker/src/main/java/service/broker/LocalBrokerService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="748">
+              <caret line="56" selection-start-line="56" selection-end-line="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/auldfellas/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1298">
+              <caret line="59" column="10" selection-start-line="59" selection-start-column="10" selection-end-line="59" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/auldfellas/Dockerfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="57" selection-start-line="2" selection-start-column="57" selection-end-line="2" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docker-compose.yaml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dodgygeezers/src/main/java/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/girlsallowed/src/main/java/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/client/src/main/java/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="551">
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/auldfellas/src/main/java/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="CLASS">
+      <summary usageCount="3" lastUsed="1696877531973" />
+    </fileType>
+    <fileType name="Dockerfile">
+      <summary usageCount="37" lastUsed="1697804697714" />
+    </fileType>
+    <fileType name="JAVA">
+      <summary usageCount="129" lastUsed="1697804697737" />
+    </fileType>
+    <fileType name="XML">
+      <summary usageCount="45" lastUsed="1697804697707" />
+    </fileType>
+    <fileType name="YAML">
+      <summary usageCount="13" lastUsed="1697804697719" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/auldfellas/src/main/java/service/auldfellas/QuotationService.java" />
+      <option value="$PROJECT_DIR$/core/pom.xml" />
+      <option value="$PROJECT_DIR$/auldfellas/src/test/java/QuotationServiceUnitTest.java" />
+      <option value="$PROJECT_DIR$/dodgygeezers/src/main/java/DGQService.java" />
+      <option value="$PROJECT_DIR$/dodgygeezers/src/main/java/service/dodgygeezers/DGQService.java" />
+      <option value="$PROJECT_DIR$/dodgygeezers/src/test/java/QuotationServiceUnitTest.java" />
+      <option value="$PROJECT_DIR$/girlsallowed/src/main/java/service/girlsallowed/GAQService.java" />
+      <option value="$PROJECT_DIR$/girlsallowed/src/test/java/QuotationServiceUnitTest.java" />
+      <option value="$PROJECT_DIR$/core/src/main/java/service/core/BrokerService.java" />
+      <option value="$PROJECT_DIR$/client/pom.xml" />
+      <option value="$PROJECT_DIR$/broker/src/test/java/QuotationServiceUnitTest.java" />
+      <option value="$PROJECT_DIR$/broker/Dockerfile" />
+      <option value="$PROJECT_DIR$/auldfellas/Dockerfile" />
+      <option value="$PROJECT_DIR$/client/src/main/java/Main.java" />
+      <option value="$PROJECT_DIR$/girlsallowed/Dockerfile" />
+      <option value="$PROJECT_DIR$/dodgygeezers/Dockerfile" />
+      <option value="$PROJECT_DIR$/docker-compose.yaml" />
+      <option value="$PROJECT_DIR$/pom.xml" />
+      <option value="$PROJECT_DIR$/auldfellas/pom.xml" />
+      <option value="$PROJECT_DIR$/dodgygeezers/pom.xml" />
+      <option value="$PROJECT_DIR$/girlsallowed/pom.xml" />
+      <option value="$PROJECT_DIR$/auldfellas/src/main/java/service/auldfellas/AFQService.java" />
+      <option value="$PROJECT_DIR$/broker/src/test/java/BrokerServiceUnitTest.java" />
+      <option value="$PROJECT_DIR$/broker/pom.xml" />
+      <option value="$PROJECT_DIR$/broker/src/main/java/Main.java" />
+      <option value="$PROJECT_DIR$/auldfellas/src/main/java/Main.java" />
+      <option value="$PROJECT_DIR$/dodgygeezers/src/main/java/Main.java" />
+      <option value="$PROJECT_DIR$/girlsallowed/src/main/java/Main.java" />
+      <option value="$PROJECT_DIR$/broker/src/main/java/service/broker/LocalBrokerService.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Dockerfile">
+      <summary usageCount="37" lastUsage="1697804697714" />
+    </language>
+    <language id="JAVA">
+      <summary usageCount="129" lastUsage="1697804697737" />
+    </language>
+    <language id="XML">
+      <summary usageCount="45" lastUsage="1697804697707" />
+    </language>
+    <language id="yaml">
+      <summary usageCount="13" lastUsage="1697804697719" />
+    </language>
+  </component>
+  <component name="MavenProjectNavigator">
+    <option name="groupStructurally" value="true" />
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="task5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab3/quoco-ws/task5}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="task5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab3/quoco-ws/task5}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab3/quoco-ws/task5/client}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="task2" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/University/Modules/Distibuted Systems/lab3/quoco-ws/task2" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="task2" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/University/Modules/Distibuted Systems/lab3/quoco-ws/task2" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="auldfellas" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="task2" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/University/Modules/Distibuted Systems/lab3/quoco-ws/task2" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="core" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <option name="allConfigurationsExpanded" value="true" />
+    <history>
+      <element setting="Maven.exec client" />
+      <element setting="Maven.exec broker" />
+      <element setting="Maven.exec auldfellas" />
+      <element setting="Maven.exec girlsallowed" />
+      <element setting="Maven.exec dodgygeezers" />
+      <element setting="Application.Main (2)" />
+      <element setting="Application.Main (1)" />
+      <element setting="JUnit.QuotationServiceUnitTest (1)" />
+      <element setting="JUnit.QuotationServiceUnitTest" />
+      <element setting="Application.Main" />
+    </history>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="task5-history2">
+        <shellCommand>
+          <arg value="/bin/bash" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="QuotationServiceUnitTest - 2023.10.05 at 13h 08m 56s.xml">
+      <configuration name="QuotationServiceUnitTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QuotationServiceUnitTest - 2023.10.05 at 13h 11m 51s.xml">
+      <configuration name="QuotationServiceUnitTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QuotationServiceUnitTest - 2023.10.05 at 13h 13m 52s.xml">
+      <configuration name="QuotationServiceUnitTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QuotationServiceUnitTest - 2023.10.05 at 13h 18m 11s.xml">
+      <configuration name="QuotationServiceUnitTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QuotationServiceUnitTest - 2023.10.05 at 13h 18m 27s.xml">
+      <configuration name="QuotationServiceUnitTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QuotationServiceUnitTest - 2023.10.05 at 13h 23m 05s.xml">
+      <configuration name="QuotationServiceUnitTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QuotationServiceUnitTest - 2023.10.05 at 13h 24m 41s.xml">
+      <configuration name="QuotationServiceUnitTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QuotationServiceUnitTest - 2023.10.05 at 13h 26m 07s.xml">
+      <configuration name="QuotationServiceUnitTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QuotationServiceUnitTest_(1) - 2023.10.05 at 13h 59m 39s.xml">
+      <configuration name="QuotationServiceUnitTest (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QuotationServiceUnitTest_(1) - 2023.10.05 at 14h 02m 06s.xml">
+      <configuration name="QuotationServiceUnitTest (1)" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14296874" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.13723958" />
+      <window_info anchor="bottom" id="Find" sideWeight="0.50027204" weight="0.32969642" />
+      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.5350925" weight="0.32969642" />
+      <window_info anchor="bottom" id="Version Control" order="1" weight="0.32969642" />
+      <window_info anchor="bottom" id="Problems" order="2" />
+      <window_info anchor="bottom" id="Problems View" order="3" weight="0.32969642" />
+      <window_info anchor="bottom" id="Services" order="4" sideWeight="0.49972796" weight="0.33159393" />
+      <window_info anchor="bottom" id="Run" order="5" show_stripe_button="false" sideWeight="0.4649075" weight="0.32969642" />
+      <window_info anchor="bottom" id="Build" order="6" weight="0.32969642" />
+      <window_info anchor="bottom" id="Debug" order="7" show_stripe_button="false" weight="0.32779884" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.32994792" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.32994792" />
+      <unified_weights bottom="0.32969642" left="0.14296874" right="0.32994792" />
+    </layoutV2>
+    <recentWindows>
+      <value>Run</value>
+      <value>Terminal</value>
+      <value>Maven</value>
+      <value>Build</value>
+      <value>Project</value>
+      <value>Problems View</value>
+      <value>Find</value>
+      <value>Services</value>
+      <value>Notifications</value>
+      <value>Version Control</value>
+      <value>Structure</value>
+      <value>Debug</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="229" width="800" height="647" key="#Docker" timestamp="1696580626505">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="229" width="800" height="647" key="#Docker/0.0.1920.1080@0.0.1920.1080" timestamp="1696580626505" />
+    <state x="560" y="212" key="#Plugins" timestamp="1696445615732">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="212" key="#Plugins/0.0.1920.1080@0.0.1920.1080" timestamp="1696445615732" />
+    <state x="448" y="145" key="#Project_Structure" timestamp="1696510616766">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="448" y="145" key="#Project_Structure/0.0.1920.1080@0.0.1920.1080" timestamp="1696510616766" />
+    <state x="440" y="229" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1697804944930">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="440" y="229" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1697804944930" />
+    <state x="766" y="261" width="387" height="584" key="#com.intellij.ide.util.MemberChooser" timestamp="1696864870630">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="766" y="261" width="387" height="584" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1696864870630" />
+    <state x="684" y="326" key="FileChooserDialogImpl" timestamp="1697804977305">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="684" y="326" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1697804977305" />
+    <state width="1838" height="305" key="GridCell.Tab.0.bottom" timestamp="1697804979946">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="305" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1697804979946" />
+    <state width="1838" height="305" key="GridCell.Tab.0.center" timestamp="1697804979946">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="305" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1697804979946" />
+    <state width="1838" height="305" key="GridCell.Tab.0.left" timestamp="1697804979946">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="305" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1697804979946" />
+    <state width="1838" height="305" key="GridCell.Tab.0.right" timestamp="1697804979946">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="305" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1697804979946" />
+    <state width="1838" height="303" key="GridCell.Tab.1.bottom" timestamp="1696509480152">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="303" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1696509480152" />
+    <state width="1838" height="303" key="GridCell.Tab.1.center" timestamp="1696509480152">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="303" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1696509480152" />
+    <state width="1838" height="303" key="GridCell.Tab.1.left" timestamp="1696509480152">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="303" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1696509480152" />
+    <state width="1838" height="303" key="GridCell.Tab.1.right" timestamp="1696509480152">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="303" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1696509480152" />
+    <state x="448" y="145" key="SettingsEditor" timestamp="1697804755630">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="448" y="145" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1697804755630" />
+    <state x="481" y="250" width="958" height="606" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1696507587468">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="481" y="250" width="958" height="606" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1080@0.0.1920.1080" timestamp="1696507587468" />
+    <state x="624" y="256" key="run.anything.popup" timestamp="1696865704945">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="624" y="256" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1696865704945" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jrt:///usr/lib/jvm/java-1.21.0-openjdk-amd64!/java.base/java/lang/ExceptionInInitializerError.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="9" column="62" selection-start-line="9" selection-start-column="62" selection-end-line="9" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/glassfish/metro/webservices-rt/2.4.4/webservices-rt-2.4.4-sources.jar!/com/sun/xml/ws/model/WrapperBeanGenerator.java" />
+    <entry file="file://$PROJECT_DIR$/core/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/service/core/QuotationService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auldfellas/src/test/java/QuotationServiceUnitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="76" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/girlsallowed/src/test/java/QuotationServiceUnitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="36" column="69" selection-start-line="36" selection-start-column="69" selection-end-line="36" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dodgygeezers/src/main/java/service/dodgygeezers/DGQService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="16" selection-start-line="16" selection-end-line="19" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dodgygeezers/src/test/java/QuotationServiceUnitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="25" column="70" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="25" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/service/core/BrokerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" column="57" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/girlsallowed/src/main/java/service/girlsallowed/GAQService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="23" column="61" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/girlsallowed/Dockerfile" />
+    <entry file="file://$PROJECT_DIR$/dodgygeezers/Dockerfile" />
+    <entry file="file://$PROJECT_DIR$/broker/Dockerfile" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dodgygeezers/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="503">
+          <caret line="97" column="21" selection-start-line="97" selection-start-column="21" selection-end-line="97" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/girlsallowed/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="503">
+          <caret line="97" column="21" selection-start-line="97" selection-start-column="21" selection-end-line="97" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auldfellas/src/main/java/service/auldfellas/AFQService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1034">
+          <caret line="55" column="5" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/broker/src/test/java/BrokerServiceUnitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="22" column="78" selection-start-line="22" selection-start-column="78" selection-end-line="22" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jmdns/jmdns/3.5.5/jmdns-3.5.5.jar!/javax/jmdns/ServiceInfo.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="127" column="37" selection-start-line="127" selection-start-column="37" selection-end-line="127" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/broker/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2112">
+          <caret line="96" column="36" selection-start-line="96" selection-start-column="36" selection-end-line="96" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/broker/src/main/java/service/broker/LocalBrokerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auldfellas/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1298">
+          <caret line="59" column="10" selection-start-line="59" selection-start-column="10" selection-end-line="59" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dodgygeezers/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/girlsallowed/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auldfellas/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/broker/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auldfellas/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="57" selection-start-line="2" selection-start-column="57" selection-end-line="2" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI" />
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI" />
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>task5</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI" />
+    </states>
+  </component>
+</project>

@@ -1,0 +1,809 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="task2" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/broker/src/main/java/service/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/auldfellas/Dockerfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/auldfellas/src/main/java/service/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="14" column="66" selection-start-line="14" selection-start-column="66" selection-end-line="14" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/broker/src/main/java/service/broker/Broker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="25" column="47" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/broker/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="49" column="21" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/src/main/java/client/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="40" column="91" selection-start-line="40" selection-start-column="91" selection-end-line="40" selection-end-column="91" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="CLASS">
+      <summary usageCount="2" lastUsed="1699735363344" />
+    </fileType>
+    <fileType name="Dockerfile">
+      <summary usageCount="13" lastUsed="1699897439136" />
+    </fileType>
+    <fileType name="JAVA">
+      <summary usageCount="154" lastUsed="1699897499710" />
+    </fileType>
+    <fileType name="XML">
+      <summary usageCount="67" lastUsed="1699896819967" />
+    </fileType>
+    <fileType name="YAML">
+      <summary usageCount="9" lastUsed="1699896278380" />
+    </fileType>
+    <fileType name="textmate">
+      <summary usageCount="29" lastUsed="1699896728659" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find />
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/auldfellas/src/main/java/service/auldfellas/Quoter.java" />
+      <option value="$PROJECT_DIR$/auldfellas/src/test/java/AkkaUnitTest.java" />
+      <option value="$PROJECT_DIR$/auldfellas/src/main/java/service/auldfellas/AFQService.java" />
+      <option value="$PROJECT_DIR$/auldfellas/src/test/java/QuoterTests.java" />
+      <option value="$PROJECT_DIR$/dodgygeezers/src/main/java/service/Quoter.java" />
+      <option value="$PROJECT_DIR$/dodgygeezers/src/main/java/service/dodgygeezers/DGQService.java" />
+      <option value="$PROJECT_DIR$/girlsallowed/src/main/java/service/Quoter.java" />
+      <option value="$PROJECT_DIR$/girlsallowed/src/main/java/service/girlsallowed/GAQService.java" />
+      <option value="$PROJECT_DIR$/core/src/main/java/service/message/ClientMessage.java" />
+      <option value="$PROJECT_DIR$/core/src/main/java/service/message/OfferMessage.java" />
+      <option value="$PROJECT_DIR$/core/src/main/java/service/message/QuotationMessage.java" />
+      <option value="$PROJECT_DIR$/core/src/main/java/service/message/RegisterMessage.java" />
+      <option value="$PROJECT_DIR$/broker/src/main/java/service/message/TimeoutMessage.java" />
+      <option value="$PROJECT_DIR$/auldfellas/src/main/java/service/Quoter.java" />
+      <option value="$PROJECT_DIR$/pom.xml" />
+      <option value="$PROJECT_DIR$/dodgygeezers/pom.xml" />
+      <option value="$PROJECT_DIR$/girlsallowed/pom.xml" />
+      <option value="$PROJECT_DIR$/dodgygeezers/src/main/resources/application.conf" />
+      <option value="$PROJECT_DIR$/girlsallowed/src/main/resources/application.conf" />
+      <option value="$PROJECT_DIR$/dodgygeezers/src/main/java/service/Main.java" />
+      <option value="$PROJECT_DIR$/girlsallowed/src/main/java/service/Main.java" />
+      <option value="$PROJECT_DIR$/broker/Dockerfile" />
+      <option value="$PROJECT_DIR$/core/pom.xml" />
+      <option value="$PROJECT_DIR$/core/src/main/java/service/message/MySerializable.java" />
+      <option value="$PROJECT_DIR$/broker/src/main/java/service/BrokerServer.java" />
+      <option value="$PROJECT_DIR$/broker/src/main/java/service/Main.java" />
+      <option value="$PROJECT_DIR$/client/Dockerfile" />
+      <option value="$PROJECT_DIR$/docker-compose.yaml" />
+      <option value="$PROJECT_DIR$/client/src/main/resources/application.conf" />
+      <option value="$PROJECT_DIR$/auldfellas/src/main/resources/application.conf" />
+      <option value="$PROJECT_DIR$/broker/src/main/resources/application.conf" />
+      <option value="$PROJECT_DIR$/broker/pom.xml" />
+      <option value="$PROJECT_DIR$/auldfellas/pom.xml" />
+      <option value="$PROJECT_DIR$/client/pom.xml" />
+      <option value="$PROJECT_DIR$/dodgygeezers/Dockerfile" />
+      <option value="$PROJECT_DIR$/girlsallowed/Dockerfile" />
+      <option value="$PROJECT_DIR$/client/src/main/java/client/Client.java" />
+      <option value="$PROJECT_DIR$/broker/src/main/java/service/broker/Broker.java" />
+      <option value="$PROJECT_DIR$/auldfellas/Dockerfile" />
+      <option value="$PROJECT_DIR$/auldfellas/src/main/java/service/Main.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Dockerfile">
+      <summary usageCount="13" lastUsage="1699897439136" />
+    </language>
+    <language id="JAVA">
+      <summary usageCount="154" lastUsage="1699897499710" />
+    </language>
+    <language id="XML">
+      <summary usageCount="67" lastUsage="1699896819967" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="29" lastUsage="1699896728659" />
+    </language>
+    <language id="yaml">
+      <summary usageCount="9" lastUsage="1699896278380" />
+    </language>
+  </component>
+  <component name="MavenProjectNavigator">
+    <option name="groupStructurally" value="true" />
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="task5 (docker)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="task5 (docker)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)/auldfellas}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="task5 (docker)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)/auldfellas}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)/auldfellas/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="task5 (docker)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)/auldfellas}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)/auldfellas/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)/auldfellas/src/main}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="task5 (docker)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)/auldfellas}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)/auldfellas/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)/auldfellas/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)/auldfellas/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="task5 (docker)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)/auldfellas}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)/auldfellas/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)/auldfellas/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)/auldfellas/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)/auldfellas/src/main/java/service}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="task5 (docker)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)/auldfellas}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)/auldfellas/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)/auldfellas/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)/auldfellas/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="task5 (docker)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)/broker}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="task5 (docker)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)/broker}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)/broker/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="task5 (docker)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)/broker}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)/broker/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)/broker/src/main}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="task5 (docker)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)/broker}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)/broker/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)/broker/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)/broker/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="task5 (docker)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)/broker}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)/broker/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)/broker/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)/broker/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)/broker/src/main/java/service}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="task5 (docker)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)/broker}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)/broker/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)/broker/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)/broker/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="task5 (docker)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)/client}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="task5 (docker)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)/client}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)/client/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="task5 (docker)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)/client}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)/client/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)/client/src/main}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="task5 (docker)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)/client}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)/client/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)/client/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)/client/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="task5 (docker)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)/dodgygeezers}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="task5 (docker)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)/dodgygeezers}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)/dodgygeezers/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="task5 (docker)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)/dodgygeezers}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)/dodgygeezers/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)/dodgygeezers/src/main}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="task5 (docker)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)/dodgygeezers}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)/dodgygeezers/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)/dodgygeezers/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)/dodgygeezers/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="task5 (docker)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)/girlsallowed}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <option name="allConfigurationsExpanded" value="true" />
+    <history>
+      <element setting="Maven.client" />
+      <element setting="Application.Main" />
+      <element setting="Application.auldfellas" />
+      <element setting="Application.broker" />
+      <element setting="Application.Client" />
+      <element setting="Application.dodgygeezers" />
+      <element setting="Application.girlsallowed" />
+      <element setting="Application.Main (2)" />
+      <element setting="Maven.auldfellas" />
+      <element setting="Maven.broker" />
+    </history>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local (2)" currentWorkingDirectory="$PROJECT_DIR$" />
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="task5 (docker)-history">
+        <shellCommand>
+          <arg value="/bin/bash" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+    <option name="mySelectedTabIndex" value="1" />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="QuoterTests - 2023.11.06 at 16h 38m 34s.xml">
+      <configuration name="QuoterTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QuoterTests_(1) - 2023.11.06 at 16h 50m 05s.xml">
+      <configuration name="QuoterTests (1)" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14921875" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32969642" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.32969642" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.32969642" />
+      <window_info anchor="bottom" id="Python Packages" order="4" show_stripe_button="false" weight="0.32969642" />
+      <window_info anchor="bottom" id="Services" order="5" weight="0.32969642" />
+      <window_info anchor="bottom" id="Run" order="6" show_stripe_button="false" weight="0.32969642" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32969642" />
+      <window_info anchor="bottom" id="Debug" order="8" show_stripe_button="false" weight="0.32969642" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.32994792" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.32969642" left="0.14921875" right="0.32994792" />
+    </layoutV2>
+    <recentWindows>
+      <value>Terminal</value>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Debug</value>
+      <value>Build</value>
+      <value>Problems View</value>
+      <value>Version Control</value>
+      <value>Services</value>
+      <value>Python Packages</value>
+      <value>Notifications</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="229" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1699735504169">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="440" y="229" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1699735504169" />
+    <state x="766" y="261" key="#com.intellij.ide.util.MemberChooser" timestamp="1699532554978">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="766" y="261" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1699532554978" />
+    <state x="698" y="317" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1699289164974">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="698" y="317" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1699289164974" />
+    <state x="676" y="311" key="FileChooserDialogImpl" timestamp="1699896272590">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="676" y="311" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1699896272590" />
+    <state width="1838" height="305" key="GridCell.Tab.0.bottom" timestamp="1699897566054">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="300" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1699629761926" />
+    <state width="1838" height="305" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1699897566054" />
+    <state width="1838" height="305" key="GridCell.Tab.0.center" timestamp="1699897566054">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="300" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1699629761925" />
+    <state width="1838" height="305" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1699897566054" />
+    <state width="1838" height="305" key="GridCell.Tab.0.left" timestamp="1699897566054">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="300" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1699629761925" />
+    <state width="1838" height="305" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1699897566054" />
+    <state width="1838" height="305" key="GridCell.Tab.0.right" timestamp="1699897566054">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="300" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1699629761925" />
+    <state width="1838" height="305" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1699897566054" />
+    <state width="1838" height="305" key="GridCell.Tab.1.bottom" timestamp="1699896277921">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="305" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1699896277921" />
+    <state width="1838" height="305" key="GridCell.Tab.1.center" timestamp="1699896277921">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="305" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1699896277921" />
+    <state width="1838" height="305" key="GridCell.Tab.1.left" timestamp="1699896277921">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="305" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1699896277921" />
+    <state width="1838" height="305" key="GridCell.Tab.1.right" timestamp="1699896277921">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="305" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1699896277921" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/auldfellas/src/main/java/service/auldfellas/Quoter.java" />
+    <entry file="file://$PROJECT_DIR$/auldfellas/src/main/java/service/auldfellas/AFQService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auldfellas/src/test/java/QuoterTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dodgygeezers/src/main/java/service/Quoter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dodgygeezers/src/main/java/service/dodgygeezers/DGQService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dodgygeezers/src/test/java/QuoterTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/girlsallowed/src/test/java/QuoterTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/girlsallowed/src/main/java/service/girlsallowed/GAQService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/girlsallowed/src/main/java/service/Quoter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="19" column="25" selection-start-line="13" selection-start-column="8" selection-end-line="19" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/service/message/OfferMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="73" selection-start-line="7" selection-start-column="73" selection-end-line="7" selection-end-column="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/service/message/QuotationMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+          <folding>
+            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#405#406#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/service/message/RegisterMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="54" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auldfellas/src/main/java/service/Quoter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/girlsallowed/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1562">
+          <caret line="71" column="41" lean-forward="true" selection-start-line="71" selection-start-column="41" selection-end-line="71" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dodgygeezers/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="93" column="12" selection-start-line="93" selection-start-column="12" selection-end-line="93" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/girlsallowed/src/main/resources/application.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dodgygeezers/src/main/java/service/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="13" column="91" selection-start-line="13" selection-start-column="91" selection-end-line="13" selection-end-column="91" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/girlsallowed/src/main/java/service/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="13" column="91" selection-start-line="13" selection-start-column="91" selection-end-line="13" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.jdks/openjdk-21.0.1/lib/src.zip!/java.base/java/net/URLClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="444" column="18" selection-start-line="444" selection-start-column="18" selection-end-line="444" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/typesafe/akka/akka-http-core_3/10.6.0-M1/akka-http-core_3-10.6.0-M1.jar!/akka/http/scaladsl/model/Uri$.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/typesafe/akka/akka-http-core_3/10.6.0-M1/akka-http-core_3-10.6.0-M1.jar!/akka/http/impl/util/JavaAccessors$.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/broker/Dockerfile" />
+    <entry file="file://$PROJECT_DIR$/core/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/service/message/MySerializable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/broker/src/main/java/service/message/TimeoutMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="48" lean-forward="true" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/service/core/ClientInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/service/message/ClientMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/broker/src/main/java/service/BrokerServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/main/resources/application.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auldfellas/src/main/resources/application.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dodgygeezers/src/main/resources/application.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="12" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/broker/src/main/resources/application.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/broker/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="49" column="21" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dodgygeezers/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/girlsallowed/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/main/java/client/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="40" column="91" selection-start-line="40" selection-start-column="91" selection-end-line="40" selection-end-column="91" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/broker/src/main/java/service/broker/Broker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="25" column="47" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auldfellas/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/broker/src/main/java/service/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auldfellas/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auldfellas/src/main/java/service/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="14" column="66" selection-start-line="14" selection-start-column="66" selection-end-line="14" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

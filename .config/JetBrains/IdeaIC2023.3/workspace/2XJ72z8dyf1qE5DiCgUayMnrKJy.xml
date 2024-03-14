@@ -1,0 +1,847 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="backgammon" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:main" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="hideFullyCovered" value="true" />
+    <option name="showOnlyModified" value="false" />
+    <option name="myColumnSize">
+      <list>
+        <option value="79" />
+        <option value="87" />
+        <option value="90" />
+        <option value="216" />
+      </list>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/board/GameBoard.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3080">
+              <caret line="148" column="23" selection-start-line="148" selection-start-column="23" selection-end-line="148" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#4896#4897#0" expanded="true" />
+                <element signature="e#4931#4932#0" expanded="true" />
+                <element signature="e#4974#4975#0" expanded="true" />
+                <element signature="e#5001#5002#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ui/Interface.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1892">
+              <caret line="102" column="5" selection-start-line="102" selection-start-column="5" selection-end-line="102" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#selectMove#0;class#Interface#0" />
+                <element signature="method#selectMove#1;class#Interface#0" />
+                <element signature="method#printNumbers#0;class#Interface#0" />
+                <element signature="method#printNumbers#1;class#Interface#0" />
+                <element signature="method#printStoppingMessage#0;class#Interface#0" />
+                <element signature="e#10747#10748#0" expanded="true" />
+                <element signature="e#10820#10821#0" expanded="true" />
+                <element signature="e#10860#10861#0" expanded="true" />
+                <element signature="e#10911#10912#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/board/DoublingCube.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#370#371#0" expanded="true" />
+                <element signature="e#401#402#0" expanded="true" />
+                <element signature="e#430#431#0" expanded="true" />
+                <element signature="e#458#459#0" expanded="true" />
+                <element signature="e#559#560#0" expanded="true" />
+                <element signature="e#607#608#0" expanded="true" />
+                <element signature="e#640#641#0" expanded="true" />
+                <element signature="e#696#697#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ui/Unicode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="18" column="74" selection-start-line="18" selection-start-column="74" selection-end-line="18" selection-end-column="74" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ui/Position.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/game/Game.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2552">
+              <caret line="125" column="61" selection-start-line="125" selection-start-column="61" selection-end-line="125" selection-end-column="61" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#rollDice#0;class#Game#0" />
+                <element signature="e#5885#5886#0" expanded="true" />
+                <element signature="e#5972#5973#0" expanded="true" />
+                <element signature="e#6012#6013#0" expanded="true" />
+                <element signature="e#6048#6049#0" expanded="true" />
+                <element signature="e#6087#6088#0" expanded="true" />
+                <element signature="e#6119#6120#0" expanded="true" />
+                <element signature="method#findPossibleSecondaryMoves#0;class#Game#0" />
+                <element signature="method#moveOption#0;class#Game#0" />
+                <element signature="e#13784#13785#0" expanded="true" />
+                <element signature="e#13814#13815#0" expanded="true" />
+                <element signature="e#13912#13913#0" expanded="true" />
+                <element signature="e#13941#13942#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/test.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/game/Match.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="946">
+              <caret line="43" column="50" selection-start-line="43" selection-start-column="50" selection-end-line="43" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1658#1659#0" expanded="true" />
+                <element signature="e#1722#1723#0" expanded="true" />
+                <element signature="e#1786#1787#0" expanded="true" />
+                <element signature="e#1855#1856#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/game/Player.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="968">
+              <caret line="48" column="63" selection-start-line="48" selection-start-column="63" selection-end-line="48" selection-end-column="63" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/util/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="326">
+              <caret line="36" column="43" selection-start-line="36" selection-start-column="43" selection-end-line="36" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="DIFF">
+      <summary usageCount="2" lastUsed="1702333808327" />
+    </fileType>
+    <fileType name="GitIgnore file">
+      <summary usageCount="20" lastUsed="1702327581306" />
+    </fileType>
+    <fileType name="JAVA">
+      <summary usageCount="301" lastUsed="1703353648928" />
+    </fileType>
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="6" lastUsed="1703353648753" />
+    </fileType>
+    <fileType name="WebPreview">
+      <summary usageCount="1" lastUsed="1702032302013" />
+    </fileType>
+    <fileType name="XML">
+      <summary usageCount="22" lastUsed="1702327695634" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>printMessage</find>
+      <find>System.out</find>
+      <find>Invalid command</find>
+      <find>getName</find>
+      <find>Exception</find>
+      <find />
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/main/java/board/Colour.java" />
+      <option value="$PROJECT_DIR$/src/main/java/players/Player.java" />
+      <option value="$PROJECT_DIR$/src/main/java/ui/Ansi.java" />
+      <option value="$PROJECT_DIR$/src/main/java/board/Checker.java" />
+      <option value="$PROJECT_DIR$/src/main/java/board/Board.java" />
+      <option value="$PROJECT_DIR$/src/main/java/util/Pair.java" />
+      <option value="$PROJECT_DIR$/src/main/java/util/InvalidCommandException.java" />
+      <option value="$PROJECT_DIR$/src/main/java/util/InvalidMoveException.java" />
+      <option value="$PROJECT_DIR$/src/main/java/board/Bar.java" />
+      <option value="$PROJECT_DIR$/pom.xml" />
+      <option value="$PROJECT_DIR$/src/main/java/game/Move.java" />
+      <option value="$PROJECT_DIR$/src/main/java/board/Point.java" />
+      <option value="$PROJECT_DIR$/src/test/java/GameBoardTest.java" />
+      <option value="$PROJECT_DIR$/.gitignore" />
+      <option value="$PROJECT_DIR$/src/main/java/Main.java" />
+      <option value="$PROJECT_DIR$/src/main/java/ui/Position.java" />
+      <option value="$PROJECT_DIR$/src/main/java/ui/Unicode.java" />
+      <option value="$PROJECT_DIR$/src/main/java/board/GameBoard.java" />
+      <option value="$PROJECT_DIR$/src/main/java/board/DoublingCube.java" />
+      <option value="$PROJECT_DIR$/src/main/java/game/Match.java" />
+      <option value="$PROJECT_DIR$/src/main/java/game/Player.java" />
+      <option value="$PROJECT_DIR$/src/main/java/ui/Interface.java" />
+      <option value="$PROJECT_DIR$/src/main/java/game/Game.java" />
+      <option value="$PROJECT_DIR$/src/main/java/util/Test.java" />
+      <option value="$PROJECT_DIR$/src/main/resources/test.txt" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="GitIgnore">
+      <summary usageCount="20" lastUsage="1702327581306" />
+    </language>
+    <language id="JAVA">
+      <summary usageCount="301" lastUsage="1703353648928" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="6" lastUsage="1703353648753" />
+    </language>
+    <language id="XML">
+      <summary usageCount="22" lastUsage="1702327695634" />
+    </language>
+  </component>
+  <component name="MavenProjectNavigator">
+    <option name="groupStructurally" value="true" />
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="e529d0c5:RootNode" />
+          <item name="backgammon" type="20da4fc8:ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="backgammon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Software Engineering/backgammon}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="backgammon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Software Engineering/backgammon}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Software Engineering/backgammon/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="backgammon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Software Engineering/backgammon}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Software Engineering/backgammon/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Software Engineering/backgammon/src/main}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="backgammon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Software Engineering/backgammon}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Software Engineering/backgammon/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Software Engineering/backgammon/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Software Engineering/backgammon/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="backgammon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Software Engineering/backgammon}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Software Engineering/backgammon/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Software Engineering/backgammon/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Software Engineering/backgammon/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Software Engineering/backgammon/src/main/java/board}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="backgammon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Software Engineering/backgammon}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Software Engineering/backgammon/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Software Engineering/backgammon/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Software Engineering/backgammon/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Software Engineering/backgammon/src/main/java/game}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="backgammon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Software Engineering/backgammon}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Software Engineering/backgammon/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Software Engineering/backgammon/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Software Engineering/backgammon/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Software Engineering/backgammon/src/main/java/ui}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="backgammon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Software Engineering/backgammon}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Software Engineering/backgammon/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Software Engineering/backgammon/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Software Engineering/backgammon/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Software Engineering/backgammon/src/main/java/util}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="backgammon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Software Engineering/backgammon}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Software Engineering/backgammon/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Software Engineering/backgammon/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Software Engineering/backgammon/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <option name="allConfigurationsExpanded" value="true" />
+    <history>
+      <element setting="Application.Main" />
+      <element setting="Maven.package" />
+      <element setting="JUnit.GameBoardTest" />
+      <element setting="JUnit.GameBoardTest.moveFromBarTest" />
+      <element setting="JUnit.GameBoardTest.gameOverTest" />
+      <element setting="Maven.test" />
+      <element setting="JUnit.GameBoardTest.twoFromBarTestWhite" />
+      <element setting="JUnit.GameBoardTest.moveFromBarTestWhite" />
+      <element setting="JUnit.GameBoardTest.offFromBarTest" />
+      <element setting="JUnit.GameBoardTest.OnlyLargerNumberTestWhite" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="backgammon-history">
+        <shellCommand>
+          <arg value="/bin/bash" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="GameBoardTest_gameOverTest - 2023.12.11 at 20h 35m 48s.xml">
+      <configuration name="GameBoardTest.gameOverTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameBoardTest_gameOverTest - 2023.12.11 at 20h 36m 49s.xml">
+      <configuration name="GameBoardTest.gameOverTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameBoardTest_gameOverTest - 2023.12.11 at 20h 38m 42s.xml">
+      <configuration name="GameBoardTest.gameOverTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameBoardTest_gameOverTest - 2023.12.11 at 20h 39m 13s.xml">
+      <configuration name="GameBoardTest.gameOverTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameBoardTest_gameOverTest - 2023.12.11 at 20h 40m 08s.xml">
+      <configuration name="GameBoardTest.gameOverTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameBoardTest_gameOverTest - 2023.12.11 at 20h 41m 14s.xml">
+      <configuration name="GameBoardTest.gameOverTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameBoardTest - 2023.12.11 at 20h 42m 04s.xml">
+      <configuration name="GameBoardTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameBoardTest - 2023.12.11 at 20h 48m 40s.xml">
+      <configuration name="GameBoardTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameBoardTest - 2023.12.11 at 20h 49m 58s.xml">
+      <configuration name="GameBoardTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameBoardTest - 2023.12.11 at 20h 50m 08s.xml">
+      <configuration name="GameBoardTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Space Code Reviews" show_stripe_button="false" />
+      <window_info id="Bookmarks" show_stripe_button="false" side_tool="true" />
+      <window_info id="Merge Requests" show_stripe_button="false" />
+      <window_info id="Pull Requests" sideWeight="0.5005081" weight="0.32994792" />
+      <window_info id="Learn" show_stripe_button="false" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.50050914" visible="true" weight="0.18736953" />
+      <window_info id="Commit" order="1" sideWeight="0.50071025" weight="0.18743482" />
+      <window_info active="true" id="Structure" order="2" sideWeight="0.49949086" side_tool="true" visible="true" weight="0.18736953" />
+      <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Find" weight="0.26473385" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.26473385" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.43880457" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.35408744" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Python Packages" order="5" />
+      <window_info active="true" anchor="bottom" id="Messages" order="6" visible="true" weight="0.40351713" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.2694867" />
+      <window_info anchor="bottom" id="Run" order="8" show_stripe_button="false" weight="0.35408744" />
+      <window_info anchor="bottom" id="Debug" order="9" show_stripe_button="false" weight="0.2694867" />
+      <window_info anchor="right" id="documentation.v2" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.24687174" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.330292" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" weight="0.24687174" />
+      <unified_weights bottom="0.35408744" left="0.18736953" right="0.24687174" />
+    </layoutV2>
+    <recentWindows>
+      <value>Notifications</value>
+      <value>Run</value>
+      <value>Project</value>
+      <value>Terminal</value>
+      <value>Structure</value>
+      <value>Commit</value>
+      <value>Build</value>
+      <value>Debug</value>
+      <value>Coverage</value>
+      <value>Maven</value>
+      <value>Find</value>
+      <value>Version Control</value>
+      <value>Messages</value>
+      <value>Problems View</value>
+      <value>Pull Requests</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="551" y="229" width="818" height="647" key="#Run/Debug_Configuration_Templates" timestamp="1698335255518">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="551" y="229" width="818" height="647" key="#Run/Debug_Configuration_Templates/0.0.1920.1080@0.0.1920.1080" timestamp="1698335255518" />
+    <state x="560" y="229" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1702326610469">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="229" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1702326610469" />
+    <state x="766" y="260" width="387" height="586" key="#com.intellij.ide.util.MemberChooser" timestamp="1702051808001">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="766" y="260" width="387" height="586" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1702051808001" />
+    <state x="2480" y="253" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1703353601578">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="253" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1703107016301" />
+    <state x="2480" y="253" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.960.540/1920.0.1920.1080@1920.0.1920.1080" timestamp="1703353601578" />
+    <state x="770" y="417" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1700518661537">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="770" y="417" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1700518661537" />
+    <state x="698" y="317" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1700480024858">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="698" y="317" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1700480024858" />
+    <state x="748" y="149" key="CommitChangelistDialog2" timestamp="1700518386050">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="748" y="149" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1700518386050" />
+    <state width="405" height="185" key="DebuggerActiveHint" timestamp="1700479349896">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="405" height="185" key="DebuggerActiveHint/0.0.1920.1080@0.0.1920.1080" timestamp="1700479349896" />
+    <state x="601" y="326" width="718" height="454" key="FileChooserDialogImpl" timestamp="1702564437450">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="601" y="326" width="718" height="454" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1702564437450" />
+    <state x="748" y="348" width="554" height="441" key="FileChooserDialogImpl/0.32.1920.1048@0.32.1920.1048" timestamp="1698836935919" />
+    <state x="41" y="424" width="1838" height="258" key="GridCell.Tab.-1.bottom" timestamp="1700478441319">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="41" y="424" width="1838" height="258" key="GridCell.Tab.-1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1700478441319" />
+    <state x="41" y="424" width="1838" height="258" key="GridCell.Tab.-1.center" timestamp="1700478441319">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="41" y="424" width="1838" height="258" key="GridCell.Tab.-1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1700478441319" />
+    <state x="41" y="424" width="1838" height="258" key="GridCell.Tab.-1.left" timestamp="1700478441318">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="41" y="424" width="1838" height="258" key="GridCell.Tab.-1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1700478441318" />
+    <state x="41" y="424" width="1838" height="258" key="GridCell.Tab.-1.right" timestamp="1700478441319">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="41" y="424" width="1838" height="258" key="GridCell.Tab.-1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1700478441319" />
+    <state width="1836" height="330" key="GridCell.Tab.0.bottom" timestamp="1703107101911">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1836" height="330" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1703107101911" />
+    <state width="1836" height="330" key="GridCell.Tab.0.center" timestamp="1703107101911">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1836" height="330" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1703107101911" />
+    <state width="1836" height="330" key="GridCell.Tab.0.left" timestamp="1703107101911">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1836" height="330" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1703107101911" />
+    <state width="1836" height="330" key="GridCell.Tab.0.right" timestamp="1703107101911">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1836" height="330" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1703107101911" />
+    <state x="0" y="602" width="1838" height="258" key="GridCell.Tab.1.bottom" timestamp="1700478406363">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="0" y="602" width="1838" height="258" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1700478406363" />
+    <state x="0" y="602" width="1838" height="258" key="GridCell.Tab.1.center" timestamp="1700478406363">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="0" y="602" width="1838" height="258" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1700478406363" />
+    <state x="0" y="602" width="1838" height="258" key="GridCell.Tab.1.left" timestamp="1700478406363">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="0" y="602" width="1838" height="258" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1700478406363" />
+    <state x="0" y="602" width="1838" height="258" key="GridCell.Tab.1.right" timestamp="1700478406363">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="0" y="602" width="1838" height="258" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1700478406363" />
+    <state x="780" y="507" key="ReplaceDuplicatesPrompt" timestamp="1702296565960">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="780" y="507" key="ReplaceDuplicatesPrompt/0.0.1920.1080@0.0.1920.1080" timestamp="1702296565960" />
+    <state x="469" y="203" key="SettingsEditor" timestamp="1703107099817">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="469" y="203" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1703107099817" />
+    <state x="710" y="438" key="VCS.EditChangelistDialog" timestamp="1700520120129">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="710" y="438" key="VCS.EditChangelistDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1700520120129" />
+    <state x="560" y="304" width="800" height="498" key="Vcs.Push.Dialog.v2" timestamp="1702333791291">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="304" width="800" height="498" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1702333791291" />
+    <state x="41" y="424" width="1838" height="258" key="dock-window-1" timestamp="1700478952402">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="41" y="424" width="1838" height="258" key="dock-window-1/0.0.1920.1080@0.0.1920.1080" timestamp="1700478952402" />
+    <state x="641" y="377" key="git4idea.ui.GitUnstashDialog" timestamp="1700520145993">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="641" y="377" key="git4idea.ui.GitUnstashDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1700520145993" />
+    <state x="560" y="253" key="new project wizard" timestamp="1701607354135">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="253" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1701607354135" />
+    <state x="660" y="343" width="600" height="420" key="refactoring.ChangeSignatureDialog" timestamp="1700514411270">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="660" y="343" width="600" height="420" key="refactoring.ChangeSignatureDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1700514411270" />
+    <state x="623" y="249" width="701" height="707" key="search.everywhere.popup" timestamp="1700604279681">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="249" width="701" height="707" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1700604279681" />
+    <state x="326" y="300" key="vcs.ApplyPatchDifferentiatedDialog" timestamp="1700520063505">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="326" y="300" key="vcs.ApplyPatchDifferentiatedDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1700520063505" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/board/Colour.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ui/Ansi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/board/Checker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+          <folding>
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#229#230#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/board/Board.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/util/InvalidCommandException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="54" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/util/InvalidMoveException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="51" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/board/Bar.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/util/Pair.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/board/Point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding>
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#1799#1800#0" expanded="true" />
+            <element signature="e#1827#1828#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/game/Move.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="6" lean-forward="true" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="547">
+          <caret line="32" column="26" lean-forward="true" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/GameBoardTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="23" column="28" lean-forward="true" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/board/GameBoard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3080">
+          <caret line="148" column="23" selection-start-line="148" selection-start-column="23" selection-end-line="148" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4896#4897#0" expanded="true" />
+            <element signature="e#4931#4932#0" expanded="true" />
+            <element signature="e#4974#4975#0" expanded="true" />
+            <element signature="e#5001#5002#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ui/Interface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1892">
+          <caret line="102" column="5" selection-start-line="102" selection-start-column="5" selection-end-line="102" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#selectMove#0;class#Interface#0" />
+            <element signature="method#selectMove#1;class#Interface#0" />
+            <element signature="method#printNumbers#0;class#Interface#0" />
+            <element signature="method#printNumbers#1;class#Interface#0" />
+            <element signature="method#printStoppingMessage#0;class#Interface#0" />
+            <element signature="e#10747#10748#0" expanded="true" />
+            <element signature="e#10820#10821#0" expanded="true" />
+            <element signature="e#10860#10861#0" expanded="true" />
+            <element signature="e#10911#10912#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/board/DoublingCube.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#370#371#0" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#430#431#0" expanded="true" />
+            <element signature="e#458#459#0" expanded="true" />
+            <element signature="e#559#560#0" expanded="true" />
+            <element signature="e#607#608#0" expanded="true" />
+            <element signature="e#640#641#0" expanded="true" />
+            <element signature="e#696#697#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ui/Unicode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="74" selection-start-line="18" selection-start-column="74" selection-end-line="18" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ui/Position.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/game/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2552">
+          <caret line="125" column="61" selection-start-line="125" selection-start-column="61" selection-end-line="125" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#rollDice#0;class#Game#0" />
+            <element signature="e#5885#5886#0" expanded="true" />
+            <element signature="e#5972#5973#0" expanded="true" />
+            <element signature="e#6012#6013#0" expanded="true" />
+            <element signature="e#6048#6049#0" expanded="true" />
+            <element signature="e#6087#6088#0" expanded="true" />
+            <element signature="e#6119#6120#0" expanded="true" />
+            <element signature="method#findPossibleSecondaryMoves#0;class#Game#0" />
+            <element signature="method#moveOption#0;class#Game#0" />
+            <element signature="e#13784#13785#0" expanded="true" />
+            <element signature="e#13814#13815#0" expanded="true" />
+            <element signature="e#13912#13913#0" expanded="true" />
+            <element signature="e#13941#13942#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/game/Match.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="946">
+          <caret line="43" column="50" selection-start-line="43" selection-start-column="50" selection-end-line="43" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1658#1659#0" expanded="true" />
+            <element signature="e#1722#1723#0" expanded="true" />
+            <element signature="e#1786#1787#0" expanded="true" />
+            <element signature="e#1855#1856#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/game/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="968">
+          <caret line="48" column="63" selection-start-line="48" selection-start-column="63" selection-end-line="48" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/util/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="36" column="43" lean-forward="true" selection-start-line="36" selection-start-column="43" selection-end-line="36" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

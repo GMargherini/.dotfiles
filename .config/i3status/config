@@ -1,0 +1,89 @@
+general {
+        output_format = "i3bar"
+        colors = true
+        interval = 5
+}
+
+
+order += "time"
+#order += "tztime rome"
+#order += "tztime dublin"
+order += "wireless wlo1"
+order += "ethernet eno1"
+order += "cpu_temperature 0"
+order += "memory"
+order += "cpu_usage"
+order += "disk /"
+order += "volume master"
+order += "battery 0"
+
+wireless wlo1 {
+        format_up = "🛜%quality, %bitrate"
+        format_down = "🛜      down     "
+        format_bitrate = "%g %cb/s"
+}
+
+#ethernet eno1 {
+#        format_up = "E: %ip (%speed)"
+#        format_down = ""
+#}
+
+volume master {
+        format = "♪ %volume"
+        format_muted = "🚫 %volume"
+        device = "pulse"
+}
+
+battery 0 {
+        format = "%status %percentage %remaining"
+        format_down = "No battery"
+        status_chr = "⚡"
+        status_bat = "🔋"
+        status_unk = "?"
+        status_full = " "
+        path = "/sys/class/power_supply/BAT%d/uevent"
+        low_threshold = 10
+        integer_battery_capacity = true
+}
+
+
+tztime rome {
+        format = "%H:%M %d/%m/%Y"
+        hide_if_equals_localtime = false
+        separator = false
+        separator_block_width = 320
+        timezone = "Europe/Rome"
+}
+tztime dublin {
+        format = "%H:%M %d/%m/%Y"
+        hide_if_equals_localtime = false
+        separator = false
+        separator_block_width = 320
+        timezone = "Europe/Dublin"
+}
+time {
+	format = "%H:%M %d/%m/%Y"
+	separator = false
+	separator_block_width = 250
+}
+
+
+cpu_temperature 0 {
+        format = "%degrees°C"
+        #path = "/sys/devices/platform/coretemp.0/temp1_input"
+}
+
+cpu_usage {
+		format = "%usage"
+		degraded_threshold = 75
+	
+}
+
+memory {
+        format = "M: %percentage_used"
+        threshold_degraded = "10%"
+}
+
+disk "/" {
+        format = "/ %percentage_used"
+}

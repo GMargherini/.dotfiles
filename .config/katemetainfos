@@ -1,0 +1,238 @@
+Bookmarks=
+Checksum=491521b4c8786460bcc5224fec46bcb30f96834e
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=cstyle
+Mode=Rust
+Mode Set By User=false
+Time=2024,2,4,14,8,53.175
+URL=
+
+[file:///home/dolphin/Projects/C C++/C/IUPAC.c]
+Bookmarks=
+Checksum=1f5496678bd825749e628c6e38ebe7419c3cde34
+Encoding=UTF-8
+Highlighting=C
+Highlighting Set By User=false
+Indentation Mode=cstyle
+Mode=C
+Mode Set By User=false
+Time=2024,2,4,13,43,24.573
+URL=file:///home/dolphin/Projects/C C++/C/IUPAC.c
+
+[file:///home/dolphin/Projects/C C++/C/Media While.c]
+Bookmarks=
+Checksum=8dea89f79e6d99bd14d3f78deeed8680a4c3d3aa
+Encoding=UTF-8
+Highlighting=C
+Highlighting Set By User=false
+Indentation Mode=cstyle
+Mode=C
+Mode Set By User=false
+Time=2024,2,4,13,23,25.266
+URL=file:///home/dolphin/Projects/C C++/C/Media While.c
+
+[file:///home/dolphin/Projects/C C++/C/calcolatrice.c]
+Bookmarks=
+Checksum=701100cbe194c0d1df2c163134dcef24268c631c
+Encoding=UTF-8
+Highlighting=C
+Highlighting Set By User=false
+Indentation Mode=cstyle
+Mode=C
+Mode Set By User=false
+Time=2024,2,4,13,24,40.079
+URL=file:///home/dolphin/Projects/C C++/C/calcolatrice.c
+
+[file:///home/dolphin/Projects/C C++/C/compiler/compiler.c]
+Bookmarks=
+Checksum=c2336f1300a00d954deeabb02f0765b0c5ab162b
+Encoding=UTF-8
+Highlighting=C
+Highlighting Set By User=false
+Indentation Mode=cstyle
+Mode=C
+Mode Set By User=false
+Time=2024,2,4,14,2,46.948
+URL=file:///home/dolphin/Projects/C C++/C/compiler/compiler.c
+
+[file:///home/dolphin/Projects/C C++/C/compiler/compiler.h]
+Bookmarks=
+Checksum=d4e2d10b652455d3ca1852dd9764281e107fad5e
+Encoding=UTF-8
+Highlighting=C++
+Highlighting Set By User=false
+Indentation Mode=cstyle
+Mode=C++
+Mode Set By User=false
+Time=2024,2,4,14,2,47.832
+URL=file:///home/dolphin/Projects/C C++/C/compiler/compiler.h
+
+[file:///home/dolphin/Projects/C C++/C/compiler/main.c]
+Bookmarks=
+Checksum=02da294380cb3272c181f5941e6a4298764f1cf0
+Encoding=UTF-8
+Highlighting=C
+Highlighting Set By User=false
+Indentation Mode=cstyle
+Mode=C
+Mode Set By User=false
+Time=2024,2,4,14,2,45.569
+URL=file:///home/dolphin/Projects/C C++/C/compiler/main.c
+
+[file:///home/dolphin/Projects/C C++/C/idk.c]
+Bookmarks=
+Checksum=92e5ee05bbf01bd847e1de9b29081fbcb0d106b6
+Encoding=UTF-8
+Highlighting=C
+Highlighting Set By User=false
+Indentation Mode=cstyle
+Mode=C
+Mode Set By User=false
+Time=2024,2,4,13,44,23.122
+URL=file:///home/dolphin/Projects/C C++/C/idk.c
+
+[file:///home/dolphin/Projects/C C++/C/somme.c]
+Bookmarks=
+Checksum=f85928e2c22bc132aff2c0e3eb469ebfe59dc63b
+Encoding=UTF-8
+Highlighting=C
+Highlighting Set By User=false
+Indentation Mode=cstyle
+Mode=C
+Mode Set By User=false
+Time=2024,2,4,13,24,39.106
+URL=file:///home/dolphin/Projects/C C++/C/somme.c
+
+[file:///home/dolphin/Projects/Rust/compiler/Cargo.toml]
+Bookmarks=
+Checksum=43f4f1501e5b5c1474ed1518a4b4a644f4a26359
+Encoding=UTF-8
+Highlighting=TOML
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=TOML
+Mode Set By User=false
+Time=2024,2,4,17,34,4.029
+URL=file:///home/dolphin/Projects/Rust/compiler/Cargo.toml
+
+[file:///home/dolphin/Projects/Rust/compiler/src/compiler.rs]
+Bookmarks=
+Checksum=299921160167515aad7af6b9496653ac921f4ad6
+Encoding=UTF-8
+Highlighting=Rust
+Highlighting Set By User=false
+Indentation Mode=cstyle
+Mode=Rust
+Mode Set By User=false
+Time=2024,2,4,17,34,4.029
+URL=file:///home/dolphin/Projects/Rust/compiler/src/compiler.rs
+
+[file:///home/dolphin/Projects/Rust/compiler/src/lib.rs]
+Bookmarks=
+Checksum=699c2b41f5ec8e39c809a8369319e9a8619d9651
+Encoding=UTF-8
+Highlighting=Rust
+Highlighting Set By User=false
+Indentation Mode=cstyle
+Mode=Rust
+Mode Set By User=false
+Time=2024,2,4,17,34,4.029
+URL=file:///home/dolphin/Projects/Rust/compiler/src/lib.rs
+
+[file:///home/dolphin/Projects/Rust/compiler/src/main.rs]
+Bookmarks=
+Checksum=e261cb39b0cfd4939e909e936e6f29e6ee84b8de
+Encoding=UTF-8
+Highlighting=Rust
+Highlighting Set By User=false
+Indentation Mode=cstyle
+Mode=Rust
+Mode Set By User=false
+Time=2024,2,4,17,34,4.029
+URL=file:///home/dolphin/Projects/Rust/compiler/src/main.rs
+
+[file:///home/dolphin/Projects/Rust/compiler/src/parser.rs]
+Bookmarks=
+Checksum=69b81bda24f3a3e5c2d93b5b4165da4308f03822
+Encoding=UTF-8
+Highlighting=Rust
+Highlighting Set By User=false
+Indentation Mode=cstyle
+Mode=Rust
+Mode Set By User=false
+Time=2024,2,4,17,34,4.029
+URL=file:///home/dolphin/Projects/Rust/compiler/src/parser.rs
+
+[file:///home/dolphin/Projects/Rust/compiler/src/tokenizer.rs]
+Bookmarks=
+Checksum=7c28dc8d1429e34007a3b3db8391f9648385560c
+Encoding=UTF-8
+Highlighting=Rust
+Highlighting Set By User=false
+Indentation Mode=cstyle
+Mode=Rust
+Mode Set By User=false
+Time=2024,2,4,17,34,4.029
+URL=file:///home/dolphin/Projects/Rust/compiler/src/tokenizer.rs
+
+[file:///home/dolphin/Projects/Rust/compiler/src/utils/AbstractSyntaxTree]
+Bookmarks=
+Checksum=e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2024,2,4,17,27,21.043
+URL=file:///home/dolphin/Projects/Rust/compiler/src/utils/AbstractSyntaxTree
+
+[file:///home/dolphin/Projects/Rust/compiler/src/utils/AbstractSyntaxTree.rs]
+Bookmarks=
+Checksum=1a5abd8974ddaa4c6d29ba035b427a8d55cec126
+Encoding=UTF-8
+Highlighting=Rust
+Highlighting Set By User=false
+Indentation Mode=cstyle
+Mode=Rust
+Mode Set By User=false
+Time=2024,2,4,17,34,4.029
+URL=file:///home/dolphin/Projects/Rust/compiler/src/utils/AbstractSyntaxTree.rs
+
+[file:///home/dolphin/University/Modules/Data Science in Python/lab 3/overlap.py]
+Bookmarks=
+Checksum=0540956e09567dcbc7fdcba36cded056ffa7d131
+Encoding=UTF-8
+Highlighting=Python
+Highlighting Set By User=false
+Indentation Mode=python
+Mode=Python
+Mode Set By User=false
+Time=2024,2,8,9,52,22.443
+URL=file:///home/dolphin/University/Modules/Data Science in Python/lab 3/overlap.py
+
+[file:///home/dolphin/University/Modules/Data Science in Python/lab 3/sample.py]
+Bookmarks=
+Checksum=5b66ef34c45fe893565c8330c6bab26bed8b290a
+Encoding=UTF-8
+Highlighting=Python
+Highlighting Set By User=false
+Indentation Mode=python
+Mode=Python
+Mode Set By User=false
+Time=2024,2,8,9,52,22.443
+URL=file:///home/dolphin/University/Modules/Data Science in Python/lab 3/sample.py
+
+[file:///home/dolphin/University/Modules/Data Science in Python/lab 3/select.py]
+Bookmarks=
+Checksum=a8107e6f0b5e40feda62295355f5fe7972919cb4
+Encoding=UTF-8
+Highlighting=Python
+Highlighting Set By User=false
+Indentation Mode=python
+Mode=Python
+Mode Set By User=false
+Time=2024,2,8,9,52,22.443
+URL=file:///home/dolphin/University/Modules/Data Science in Python/lab 3/select.py

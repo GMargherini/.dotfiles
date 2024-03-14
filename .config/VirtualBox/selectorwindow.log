@@ -1,0 +1,21 @@
+00:00:00.355027 VirtualBox GUI VM Selector Window 7.0.14 r161095 linux.amd64 (Jan 15 2024 15:49:28) release log
+00:00:00.355029 Log opened 2024-03-04T21:51:16.131492000Z
+00:00:00.355029 Build Type: release
+00:00:00.355032 OS Product: Linux
+00:00:00.355032 OS Release: 6.6.15-amd64
+00:00:00.355033 OS Version: #1 SMP PREEMPT_DYNAMIC Debian 6.6.15-2 (2024-02-04)
+00:00:00.355059 DMI Product Name: OMEN by HP Laptop 16-c0xxx
+00:00:00.355069 DMI Product Version: 
+00:00:00.355076 Firmware type: UEFI
+00:00:00.355197 Secure Boot: Disabled
+00:00:00.355239 Host RAM: 31441MB (30.7GB) total, 30098MB (29.3GB) available
+00:00:00.355242 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.355242 Process ID: 4551
+00:00:00.355243 Package type: LINUX_64BITS_DEBIAN_12_0
+00:00:00.355262 Qt version: 5.15.10
+00:00:00.356264 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.370985 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.761700 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:00.787170 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 1x27 x 958x1052
+00:40:46.239404 GUI: UICommon: Handling aboutToQuit request..
+00:40:47.170759 GUI: UICommon: aboutToQuit request handled!

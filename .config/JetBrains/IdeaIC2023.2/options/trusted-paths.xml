@@ -1,0 +1,37 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/University/Modules/Cloud Computing/lab4" value="true" />
+        <entry key="$USER_HOME$/University/Modules/Cloud Computing/lab5" value="true" />
+        <entry key="$USER_HOME$/University/Modules/Cloud Computing/project/dashboard" value="true" />
+        <entry key="$USER_HOME$/University/Modules/Cloud Computing/project2/PROJECT2_Giorgio_Margherini_23217914" value="true" />
+        <entry key="$USER_HOME$/University/Modules/Distibuted Systems/lab3/quoco-ws/task1" value="true" />
+        <entry key="$USER_HOME$/University/Modules/Distibuted Systems/lab3/quoco-ws/task2" value="true" />
+        <entry key="$USER_HOME$/University/Modules/Distibuted Systems/lab3/quoco-ws/task3" value="true" />
+        <entry key="$USER_HOME$/University/Modules/Distibuted Systems/lab3/quoco-ws/task4" value="true" />
+        <entry key="$USER_HOME$/University/Modules/Distibuted Systems/lab3/quoco-ws/task5" value="true" />
+        <entry key="$USER_HOME$/University/Modules/Distibuted Systems/lab4/quoco-jms/task5" value="true" />
+        <entry key="$USER_HOME$/University/Modules/Distibuted Systems/lab5/lifeco-rest/task1" value="true" />
+        <entry key="$USER_HOME$/University/Modules/Distibuted Systems/lab5/lifeco-rest/task2" value="true" />
+        <entry key="$USER_HOME$/University/Modules/Distibuted Systems/lab5/lifeco-rest/task3" value="true" />
+        <entry key="$USER_HOME$/University/Modules/Distibuted Systems/lab5/lifeco-rest/task4" value="true" />
+        <entry key="$USER_HOME$/University/Modules/Distibuted Systems/lab5/lifeco-rest/task5" value="true" />
+        <entry key="$USER_HOME$/University/Modules/Distibuted Systems/lab6/lifeco-akka/task1" value="true" />
+        <entry key="$USER_HOME$/University/Modules/Distibuted Systems/lab6/lifeco-akka/task2" value="true" />
+        <entry key="$USER_HOME$/University/Modules/Distibuted Systems/lab6/lifeco-akka/task2/girlsallowed" value="true" />
+        <entry key="$USER_HOME$/University/Modules/Distibuted Systems/lab6/lifeco-akka/task3" value="true" />
+        <entry key="$USER_HOME$/University/Modules/Distibuted Systems/lab6/lifeco-akka/task4" value="true" />
+        <entry key="$USER_HOME$/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5" value="true" />
+        <entry key="$USER_HOME$/University/Modules/Distibuted Systems/lab6/lifeco-akka/task5 (docker)" value="true" />
+        <entry key="$USER_HOME$/University/Modules/Distibuted Systems/megatrade" value="true" />
+        <entry key="$USER_HOME$/University/Modules/Distibuted Systems/megatrade/megatrade" value="true" />
+        <entry key="$USER_HOME$/University/Modules/Multi-Agent Systems/Labs/Lab1/Backgammon" value="true" />
+        <entry key="$USER_HOME$/University/Modules/Multi-Agent Systems/Labs/Lab1/Part3" value="true" />
+        <entry key="$USER_HOME$/University/Modules/Software Engineering/backgammon" value="true" />
+        <entry key="$USER_HOME$/University/Modules/Software Engineering/project 2/Backgammon" value="true" />
+        <entry key="$USER_HOME$/University/Modules/Software Engineering/src/project 1" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

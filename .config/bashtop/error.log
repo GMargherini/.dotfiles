@@ -1,0 +1,73 @@
+ 
+New instance of bashtop version: 0.9.25 Pid: 44695
+ 
+New instance of bashtop version: 0.9.25 Pid: 25243
+ 
+New instance of bashtop version: 0.9.25 Pid: 31439
+ 
+New instance of bashtop version: 0.9.25 Pid: 4088
+ 
+New instance of bashtop version: 0.9.25 Pid: 13539
+ 
+New instance of bashtop version: 0.9.25 Pid: 21426
+ 
+New instance of bashtop version: 0.9.25 Pid: 26264
+ 
+New instance of bashtop version: 0.9.25 Pid: 9081
+ 
+New instance of bashtop version: 0.9.25 Pid: 22147
+ 
+New instance of bashtop version: 0.9.25 Pid: 19564
+ 
+New instance of bashtop version: 0.9.25 Pid: 11471
+ 
+New instance of bashtop version: 0.9.25 Pid: 27642
+ 
+New instance of bashtop version: 0.9.25 Pid: 189602
+ 
+New instance of bashtop version: 0.9.25 Pid: 193920
+ 
+New instance of bashtop version: 0.9.25 Pid: 199582
+ 
+New instance of bashtop version: 0.9.25 Pid: 200472
+ 
+New instance of bashtop version: 0.9.25 Pid: 13953
+ 
+New instance of bashtop version: 0.9.25 Pid: 15430
+ 
+New instance of bashtop version: 0.9.25 Pid: 26645
+ 
+New instance of bashtop version: 0.9.25 Pid: 44541
+ 
+New instance of bashtop version: 0.9.25 Pid: 4440
+ 
+New instance of bashtop version: 0.9.25 Pid: 12258
+ 
+New instance of bashtop version: 0.9.25 Pid: 19961
+ 
+New instance of bashtop version: 0.9.25 Pid: 21401
+ 
+New instance of bashtop version: 0.9.25 Pid: 36546
+ 
+New instance of bashtop version: 0.9.25 Pid: 47087
+00:08:34 ERROR: On line 680 
+ 
+New instance of bashtop version: 0.9.25 Pid: 60012
+ 
+New instance of bashtop version: 0.9.25 Pid: 60661
+ 
+New instance of bashtop version: 0.9.25 Pid: 62050
+PSUTIL ERROR! Command: get_nics()
+'eno1'
+22:48:15 ERROR: On line 1048 
+22:48:26 ERROR: On line 680 
+ 
+New instance of bashtop version: 0.9.25 Pid: 9185
+PSUTIL ERROR! Command: get_nics()
+'eno1'
+13:04:34 ERROR: On line 1048 
+ 
+New instance of bashtop version: 0.9.25 Pid: 8311
+PSUTIL ERROR! Command: get_nics()
+'eno1'
+23:24:47 ERROR: On line 1048 

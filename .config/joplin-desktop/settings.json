@@ -1,0 +1,48 @@
+{
+	"$schema": "https://joplinapp.org/schema/settings.json",
+	"locale": "en_GB",
+	"api.token": "4b35daaa2f4c62839fd36957a3fddce44ea69f9613ed189c2c2e6ad9fd45b3040b5996c47b0d591cc3205105fb02fef9d5c25bf17478c470236f3416da07e843",
+	"markdown.plugin.softbreaks": false,
+	"markdown.plugin.typographer": true,
+	"spellChecker.languages": [
+		"en-GB",
+		"en-US"
+	],
+	"noteVisiblePanes": [
+		"editor",
+		"viewer"
+	],
+	"ui.layout": {
+		"key": "root",
+		"children": [
+			{
+				"key": "sideBar",
+				"width": 250,
+				"visible": true
+			},
+			{
+				"key": "noteList",
+				"width": 250,
+				"visible": false
+			},
+			{
+				"key": "editor",
+				"visible": true
+			}
+		],
+		"visible": true
+	},
+	"sync.target": 7,
+	"notes.sortOrder.field": "title",
+	"notes.sortOrder.reverse": false,
+	"editor.codeView": true,
+	"richTextBannerDismissed": true,
+	"markdown.plugin.multitable": true,
+	"markdown.plugin.katex": true,
+	"markdown.plugin.fountain": false,
+	"markdown.plugin.sub": false,
+	"markdown.plugin.sup": false,
+	"markdown.plugin.emoji": false,
+	"markdown.plugin.audioPlayer": false,
+	"markdown.plugin.videoPlayer": false
+}

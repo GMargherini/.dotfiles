@@ -1,0 +1,331 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Backgammon" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/board/Board.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/board/Point.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="GitIgnore file">
+      <summary usageCount="1" lastUsed="1698334720206" />
+    </fileType>
+    <fileType name="JAVA">
+      <summary usageCount="5" lastUsed="1698335038920" />
+    </fileType>
+    <fileType name="XML">
+      <summary usageCount="3" lastUsed="1698335038810" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/main/java/Board.java" />
+      <option value="$PROJECT_DIR$/pom.xml" />
+      <option value="$PROJECT_DIR$/.gitignore" />
+      <option value="$PROJECT_DIR$/src/main/java/board/Point.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="GitIgnore">
+      <summary usageCount="1" lastUsage="1698334720206" />
+    </language>
+    <language id="JAVA">
+      <summary usageCount="5" lastUsage="1698335038920" />
+    </language>
+    <language id="XML">
+      <summary usageCount="3" lastUsage="1698335038812" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Backgammon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Software Engineering/project 2/Backgammon}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Backgammon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Software Engineering/project 2/Backgammon}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Software Engineering/project 2/Backgammon/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Backgammon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Software Engineering/project 2/Backgammon}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Software Engineering/project 2/Backgammon/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Software Engineering/project 2/Backgammon/src/main}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Backgammon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Software Engineering/project 2/Backgammon}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Software Engineering/project 2/Backgammon/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Software Engineering/project 2/Backgammon/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Software Engineering/project 2/Backgammon/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Backgammon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Software Engineering/project 2/Backgammon}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Software Engineering/project 2/Backgammon/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Software Engineering/project 2/Backgammon/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Software Engineering/project 2/Backgammon/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Software Engineering/project 2/Backgammon/src/main/java/board}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" commandHistoryFileName="Backgammon-history1">
+        <shellCommand>
+          <arg value="/bin/bash" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30911458" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info active="true" id="Structure" order="2" side_tool="true" visible="true" weight="0.30911458" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="0" visible="true" weight="0.32969642" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.32969642" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.32969642" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.32969642" />
+      <window_info anchor="bottom" id="Services" order="5" weight="0.32969642" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.32969642" left="0.30911458" />
+    </layoutV2>
+    <recentWindows>
+      <value>Structure</value>
+      <value>Project</value>
+      <value>Version Control</value>
+      <value>Terminal</value>
+      <value>Services</value>
+      <value>Problems View</value>
+      <value>Run</value>
+    </recentWindows>
+  </component>
+  <component name="UnlinkedProjectNotification">
+    <option name="disabledNotifications">
+      <set>
+        <option value="MAVEN" />
+      </set>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="745" y="312" key="FileChooserDialogImpl" timestamp="1698335106279">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="745" y="312" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1698335106279" />
+    <state width="1838" height="305" key="GridCell.Tab.0.bottom" timestamp="1698334853575">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="305" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1698334853575" />
+    <state width="1838" height="305" key="GridCell.Tab.0.center" timestamp="1698334853575">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="305" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1698334853575" />
+    <state width="1838" height="305" key="GridCell.Tab.0.left" timestamp="1698334853575">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="305" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1698334853575" />
+    <state width="1838" height="305" key="GridCell.Tab.0.right" timestamp="1698334853575">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="305" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1698334853575" />
+    <state x="448" y="145" key="SettingsEditor" timestamp="1698334937333">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="448" y="145" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1698334937333" />
+    <state x="671" y="463" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1698334903195">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="671" y="463" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1080@0.0.1920.1080" timestamp="1698334903195" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/board/Board.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/board/Point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Backgammon</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

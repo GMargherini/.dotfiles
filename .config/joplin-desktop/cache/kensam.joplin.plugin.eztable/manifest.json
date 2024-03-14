@@ -1,0 +1,15 @@
+{
+	"manifest_version": 1,
+	"id": "kensam.joplin.plugin.eztable",
+	"app_min_version": "1.8",
+	"version": "1.0.2",
+	"name": "Ez Table",
+	"description": "Make markdown table easy",
+	"author": "Ken Sam",
+	"homepage_url": "https://github.com/kensam94/joplin-plugin-eztable",
+	"repository_url": "https://github.com/kensam94/joplin-plugin-eztable",
+	"keywords": [
+		"table"
+	],
+	"_package_hash": "4d7ec17eb0a2a9494c3c4b9f90a9cec1"
+}
