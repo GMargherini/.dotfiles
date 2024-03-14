@@ -2,10 +2,10 @@
 
 @import '../../.cache/wal/colors-waybar.css';
 
-@define-color noti-border-color #AA55AA;
+@define-color noti-border-color ForestGreen;
 @define-color noti-bg rgba(0, 0, 0, 0.8);
 @define-color noti-bg-alt #111111;
-@define-color noti-bg-hover #AA55AA;
+@define-color noti-bg-hover @noti-border-color;
 @define-color text-color white;
 @define-color text-color-alt @color7;
 @define-color text-color-disabled rgba(150, 150, 150, 0.8);

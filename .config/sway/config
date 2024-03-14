@@ -37,6 +37,9 @@ output DP-1	resolution 3840x2160 scale 2
  
 output HDMI-A-1 resolution 1920x1080
 
+output "*" bg /home/dolphin/Pictures/Sfondi/1920/bi\ lake.jpg fill
+output eDP-1 mode 1920x1080@60.004002Hz
+
 #output eDP-1 disable
 #output DP-1  resolution 1920x1080
 #
@@ -81,7 +84,7 @@ bindsym $mod+l exec swaylock -i /home/dolphin/Pictures/Sfondi/4K/blue\ structure
       Down      $nag_select prev
     }
   }
-bindsym $mod+Shift+Escape $nag -t warning -m 'Exit' -B 'Exit sway' 'swaymsg exit' -B 'Reboot' 'reboot' -B 'Power off' 'poweroff'
+bindsym $mod+Shift+Escape $nag -t warning -m 'Exit' -B 'Reboot' 'reboot' -B 'Power off' 'poweroff'
 #
 # This will lock your screen after 300 seconds of inactivity, then turn off
 # your displays after another 300 seconds, and turn your screens back on when
@@ -91,18 +94,22 @@ bindsym $mod+Shift+Escape $nag -t warning -m 'Exit' -B 'Exit sway' 'swaymsg exit
 #
 # Example configuration:
 #
-  input "1267:12738:ELAN0752:00_04F3:31C2_Touchpad" {
+
+input * xkb_options compose:rctrl
+input type:keyboard xkb_numlock enabled
+
+input "1267:12738:ELAN0752:00_04F3:31C2_Touchpad" {
       dwt enabled
       tap enabled
       natural_scroll enabled
       middle_emulation enabled
   }
-#
+
 input "1:1:AT_Translated_Set_2_keyboard" {
     xkb_layout "it"
     xkb_options "grp:lctrl_lwin_toggle"
 }
-input type:keyboard xkb_numlock enabled
+
 # You can get the names of your inputs by running: swaymsg -t get_inputs
 # Read `man 5 sway-input` for more information about this section.
 
@@ -255,11 +262,11 @@ bar {
 
 # Inner gaps for all windows: space between two adjacent windows (or split containers).
 # gaps inner <gap_size>[px]
-gaps inner 0
+gaps inner 4px
 
 # Outer gaps for all windows: space along the screen edges.
 # gaps outer|horizontal|vertical|top|left|bottom|right <gap_size>[px]
-gaps top 0
+gaps bottom 4px
 
 # Inner and outer gaps for all windows on a specific workspace.
 # <ws> can be a workspace number or name.
@@ -272,23 +279,21 @@ gaps top 0
 # inverse_outer only enables outer gaps when there is exactly one
 # window or split container on the workspace.
 # smart_gaps on|off|inverse_outer
+
 smart_gaps off
-for_window [class=".*"] border pixel 1
-default_border pixel 0
+default_border pixel 2
 default_floating_border normal
 titlebar_padding 1
 titlebar_border_thickness 0
 
 # class                 border  backgr. text    indicator child_border
-client.focused          #AA55AA #AA55AA #ffffff #AA55AA   #AA55AA
+client.focused          #228B22 #228B22 #ffffff #228B22   #228B22
 client.focused_inactive #333333 #5f676a #ffffff #484e50   #5f676a
 client.unfocused        #333333 #222222 #888888 #292d2e   #222222
-client.urgent           #2f343a #AA55AA #ffffff #AA55AA   #AA55AA
+client.urgent           #2f343a #228B22 #ffffff #228B22   #228B22
 client.placeholder      #000000 #0c0c0c #ffffff #000000   #0c0c0c
 
-output "*" bg /home/dolphin/Pictures/Sfondi/1920/nb\ forest.jpg fill
-output eDP-1 mode 1920x1080@60.004002Hz
-input * xkb_options compose:rctrl
+
 
 # Function keys
 bindsym XF86MonBrightnessDown exec light -U 5
@@ -310,4 +315,4 @@ bindgesture swipe:up exec $menu
 bindgesture swipe:down exec ydotool key esc
 #bindgesture pinch:inward kill
 
-bindsym $mod+Tab focus right
+bindsym $mod+Tab exec rofi -show window -show-icons

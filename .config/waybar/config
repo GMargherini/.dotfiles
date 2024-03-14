@@ -1,32 +1,22 @@
 {
-    // "layer": "top", // Waybar at top layer
-    // "position": "bottom", // Waybar position (top|bottom|left|right)
-    "height": 24, // Waybar height (to be removed for auto height)
-    // "width": 1280, // Waybar width
-    //"spacing": 4, // Gaps between modules (4px)
     // Choose the order of the modules
     "modules-left": [
-    	"sway/workspaces", 
-    	"sway/mode"
+    	"sway/workspaces"
     ],
 
-    "modules-center": ["clock","custom/notification"],
+    "modules-center": [
+    	"clock",
+    	"custom/notification"
+    ],
 
     "modules-right": [
     	"network",
-    	"custom/separator", 
-    	"temperature", 
-    	"custom/separator",
-    	"cpu", 
-    	"custom/separator",
-    	"memory", 
-    	"custom/separator",
-    	"pulseaudio", 
-    	"custom/separator",
-    	"backlight", 
-    	"custom/separator",
-    	"battery", 
-    	"custom/separator",
+    	"temperature",
+    	"cpu",
+    	"memory",
+    	"pulseaudio",
+    	"backlight",
+    	"battery",
     	"tray"
     ],
 
@@ -35,7 +25,7 @@
          "disable-scroll": true,
          "all-outputs": true,
          "warp-on-scroll": false,
-         //"format": "{name}: {icon}",
+        // "format": "{name}: {icon}",
          "format-icons": {
              "1": "",
              "2": "",
@@ -57,7 +47,7 @@
         }
     },
     "sway/mode": {
-        "format": "<span style=\"italic\">{}</span>"
+        "format": "{}"
     },
     "sway/scratchpad": {
         "format": "{icon} {count}",
@@ -110,24 +100,25 @@
         "spacing": 10
     },
     "clock": {
-        // "timezone": "America/New_York",
+        // "timezone": "Europe/Dublin",
         "tooltip-format": "<big>{calendar}</big>",
-		"format": "{:%H:%M %d/%m/%Y} "
+		"format": "{:%H:%M %d/%m/%Y}"
     },
     "cpu": {
-        "format": " {usage}%",
-//        "tooltip": false
+        "format": "{icon} {usage}%",
+        "tooltip": true,
+        "format-icons": [" ","▁", "▂", "▃", "▄", "▅", "▆", "▇", "█"],
     },
     "memory": {
         "format": " {}%"
     },
     "temperature": {
         "thermal-zone": 2,
-       "hwmon-path": ["/sys/class/hwmon/hwmon2/temp1_input", "/sys/class/thermal/thermal_zone0/temp"],
+        "hwmon-path": ["/sys/class/hwmon/hwmon2/temp1_input", "/sys/class/thermal/thermal_zone0/temp"],
         "critical-threshold": 80,
         "format-critical": "{icon} {temperatureC}°C",
         "format": "{icon} {temperatureC}°C",
-        "format-icons": ["", "", ""]
+        "format-icons": ["", "","", ""]
     },
     "backlight": {
         // "device": "acpi_video1",
@@ -136,7 +127,7 @@
     },
     "battery": {
         "states": {
-            // "good": 95,
+            "good": 95,
             "warning": 30,
             "critical": 15
         },
@@ -169,12 +160,12 @@
         "format-source": " {volume}%",
         "format-source-muted": "",
         "format-icons": {
-//            "headphone": "",
+            "headphone": "",
 //            "hands-free": "",
 //            "headset": "",
-//            "phone": "",
-//            "portable": "",
-//            "car": "",
+            "phone": "",
+            "portable": "",
+            "car": "",
             "default": ["", "", ""]
         },
         "on-click": "pavucontrol"
