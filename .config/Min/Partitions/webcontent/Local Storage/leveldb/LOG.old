@@ -1,0 +1,5 @@
+2024/04/28-23:53:15.847 703b Creating DB /home/dolphin/.config/Min/Partitions/webcontent/Local Storage/leveldb since it was missing.
+2024/04/28-23:53:15.850 703b Reusing MANIFEST /home/dolphin/.config/Min/Partitions/webcontent/Local Storage/leveldb/MANIFEST-000001
+2024/04/28-23:54:42.212 703b Level-0 table #5: started
+2024/04/28-23:54:42.220 703b Level-0 table #5: 499449 bytes OK
+2024/04/28-23:54:42.221 703b Delete type=0 #3

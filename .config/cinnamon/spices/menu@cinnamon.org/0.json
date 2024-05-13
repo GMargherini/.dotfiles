@@ -143,7 +143,7 @@
         "units": "px",
         "description": "Applications icon size",
         "dependency": "show-application-icons",
-        "value": 22
+        "value": 40.0
     },
     "favbox-show": {
         "type": "switch",
@@ -175,14 +175,14 @@
         "default": true,
         "description": "Show bookmarks and places",
         "tooltip": "Choose whether or not to show bookmarks and places in the menu.",
-        "value": true
+        "value": false
     },
     "show-recents": {
         "type": "switch",
         "default": true,
         "description": "Show recents",
         "tooltip": "Choose whether or not to show recents in the menu.",
-        "value": true
+        "value": false
     },
     "category-hover": {
         "type": "switch",

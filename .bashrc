@@ -149,3 +149,5 @@ if [ -z "$XPRESSDIR" ] && [ -d "$XPRESSDIR" ]; then
   . /home/dolphin/xpressmp/bin/xpvars.sh
 fi
 
+. "$HOME/.asdf/asdf.sh"
+. "$HOME/.asdf/completions/asdf.bash"

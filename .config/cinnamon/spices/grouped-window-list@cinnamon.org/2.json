@@ -164,8 +164,8 @@
         ],
         "value": [
             "nemo.desktop",
-            "firefox-esr.desktop",
-            "org.gnome.Terminal.desktop"
+            "org.gnome.Terminal.desktop",
+            "firefox-esr.desktop"
         ]
     },
     "group-apps": {

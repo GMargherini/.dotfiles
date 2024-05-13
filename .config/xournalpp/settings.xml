@@ -6,18 +6,18 @@
   <property name="pressureMultiplier" value="1"/>
   <property name="zoomGesturesEnabled" value="true"/>
   <property name="selectedToolbar" value="Portrait"/>
-  <property name="lastSavePath" value="/home/dolphin/University/Modules/Digital Libraries"/>
-  <property name="lastOpenPath" value="/home/dolphin/University/Modules/Digital Libraries"/>
+  <property name="lastSavePath" value="/home/dolphin/University/Modules/Optimisation/Slides"/>
+  <property name="lastOpenPath" value="/home/dolphin/Downloads"/>
   <property name="lastImagePath" value=""/>
   <property name="edgePanSpeed" value="20"/>
   <property name="edgePanMaxMult" value="5"/>
   <property name="zoomStep" value="10"/>
   <property name="zoomStepScroll" value="2"/>
   <property name="displayDpi" value="72"/>
-  <property name="mainWndWidth" value="1918"/>
-  <property name="mainWndHeight" value="1052"/>
+  <property name="mainWndWidth" value="1916"/>
+  <property name="mainWndHeight" value="1030"/>
   <property name="maximized" value="false"/>
-  <property name="showToolbar" value="true"/>
+  <property name="showToolbar" value="false"/>
   <property name="showSidebar" value="false"/>
   <property name="sidebarWidth" value="50"/>
   <property name="sidebarNumberingStyle" value="1"/>
@@ -71,7 +71,7 @@
   <property name="addVerticalSpaceAmount" value="150"/>
   <property name="drawDirModsEnabled" value="false"/>
   <property name="drawDirModsRadius" value="50"/>
-  <property name="snapRotation" value="true"/>
+  <property name="snapRotation" value="false"/>
   <property name="snapRotationTolerance" value="0.3"/>
   <property name="snapGrid" value="true"/>
   <property name="snapGridTolerance" value="0.5"/>
@@ -165,11 +165,19 @@
     </data>
   </data>
   <data name="deviceClasses">
+    <data name="ELAN0752:00 04F3:31C2 Touchpad">
+      <attribute name="deviceClass" type="int" value="1"/>
+      <attribute name="deviceSource" type="int" value="6"/>
+    </data>
     <data name="Wayland Finger Scrolling">
       <attribute name="deviceClass" type="int" value="1"/>
       <attribute name="deviceSource" type="int" value="6"/>
     </data>
     <data name="Wayland Pointer">
+      <attribute name="deviceClass" type="int" value="1"/>
+      <attribute name="deviceSource" type="int" value="0"/>
+    </data>
+    <data name="Wayland Wheel Scrolling">
       <attribute name="deviceClass" type="int" value="1"/>
       <attribute name="deviceSource" type="int" value="0"/>
     </data>
@@ -213,11 +221,11 @@
       <attribute name="drawingType" type="string" value="default"/>
     </data>
     <data name="pen">
-      <attribute name="color" type="hex" value="ff3333cc"/>
+      <attribute name="color" type="hex" value="ff000000"/>
       <attribute name="drawingType" type="string" value="default"/>
-      <attribute name="fill" type="int" value="1"/>
+      <attribute name="fill" type="int" value="0"/>
       <attribute name="fillAlpha" type="int" value="128"/>
-      <attribute name="size" type="string" value="MEDIUM"/>
+      <attribute name="size" type="string" value="THIN"/>
       <attribute name="style" type="string" value="plain"/>
     </data>
     <data name="playObject">
@@ -250,7 +258,7 @@
       <attribute name="drawingType" type="string" value="default"/>
     </data>
     <data name="text">
-      <attribute name="color" type="hex" value="ff000000"/>
+      <attribute name="color" type="hex" value="000000"/>
       <attribute name="drawingType" type="string" value="default"/>
     </data>
     <data name="verticalSpace">

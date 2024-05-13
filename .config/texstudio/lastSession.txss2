@@ -1,0 +1,24 @@
+{
+    "InternalPDFViewer": {
+        "Embedded": true,
+        "File": "../../University/Modules/Ethical Hacking/Assignment_1/assignment.pdf"
+    },
+    "Session": {
+        "Bookmarks": [
+        ],
+        "CurrentFile": "../../University/Modules/Ethical Hacking/Assignment_1/assignment.tex",
+        "FileVersion": 1,
+        "Files": [
+            {
+                "Col": 14,
+                "EditorGroup": 0,
+                "FileName": "../../University/Modules/Ethical Hacking/Assignment_1/assignment.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 8
+            }
+        ],
+        "MasterFile": "",
+        "VerticalSplit": true
+    }
+}

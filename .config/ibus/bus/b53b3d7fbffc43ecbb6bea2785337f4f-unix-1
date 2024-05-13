@@ -3,5 +3,5 @@
 # ibus session bus with the below address.
 # If the IBUS_ADDRESS environment variable is set, it will
 # be used rather than this file.
-IBUS_ADDRESS=unix:path=/home/dolphin/.cache/ibus/dbus-hA3TLoaX,guid=2b5ed6a9904419a80463aef265478789
-IBUS_DAEMON_PID=3504
+IBUS_ADDRESS=unix:path=/home/dolphin/.cache/ibus/dbus-Qyd5JOlf,guid=ba68c837fcaf066d4c8f7f51661d8296
+IBUS_DAEMON_PID=8001

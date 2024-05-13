@@ -3,19 +3,20 @@
 
 /* ---- Configuration ---- */
 configuration {
-    modi:                       "drun,run,filebrowser";
+    modi:                       "drun";
     font:                       "Fira Code SemiBold 12";
     show-icons:                 true;
-    display-drun:               "";
-	display-run:                "";
-    display-filebrowser:        "";
-    display-window:             "󱂬";
+    display-drun:               "";
+	display-run:                "";
+    display-filebrowser:        "";
+    display-window:             "";
 	drun-display-format:        "{name}";
     hover-select:               true;
     me-select-entry:            "MouseSecondary";
     me-accept-entry:            "MousePrimary";
     window-format:              "{w} · {c} · {t}";
 	dpi:						1;
+	sort:						true;
     
 }
 
@@ -247,4 +248,8 @@ error-message {
 
 //@theme "/home/dolphin/.local/share/rofi/themes/rounded-purple-dark.rasi"
 
-@theme "/home/dolphin/.local/share/rofi/themes/rounded-green-dark.rasi"
+//@theme "/home/dolphin/.local/share/rofi/themes/rounded-green-dark.rasi"
+
+//@theme "/home/dolphin/.local/share/rofi/themes/windows11-grid-dark.rasi"
+
+@theme "/home/dolphin/.local/share/rofi/themes/my_theme.rasi"

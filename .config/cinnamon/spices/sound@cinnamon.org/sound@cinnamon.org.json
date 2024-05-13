@@ -35,7 +35,9 @@
             "vlc",
             "rhythmbox",
             "spotify",
-            "firefox"
+            "firefox",
+            "mpv",
+            "org.gnome.Totem"
         ]
     },
     "section2": {

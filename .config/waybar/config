@@ -1,12 +1,14 @@
 {
     // Choose the order of the modules
     "modules-left": [
-    	"sway/workspaces"
+    	"custom/menu",
+    	"sway/workspaces",
+    	"sway/mode"
     ],
 
     "modules-center": [
-    	"clock",
-    	"custom/notification"
+    	"clock"
+//    	"custom/notification"
     ],
 
     "modules-right": [
@@ -123,7 +125,7 @@
     "backlight": {
         // "device": "acpi_video1",
         "format": "{icon} {percent}%",
-        "format-icons": ["", "", "", "", "", "", "", "", ""]
+        "format-icons": ["", "", "", "", "", "", "", ""]
     },
     "battery": {
         "states": {
@@ -155,8 +157,8 @@
         // "scroll-step": 1, // %, can be a float
         "format": "{icon} {volume}% {format_source}",
         "format-bluetooth": " {icon} {volume}% {format_source}",
-        "format-bluetooth-muted": "  {icon} {format_source}",
-        "format-muted": "  {format_source}",
+        "format-bluetooth-muted": "🚫  {icon} {format_source}",
+        "format-muted": "🚫  {format_source}",
         "format-source": " {volume}%",
         "format-source-muted": "",
         "format-icons": {
@@ -206,6 +208,10 @@
     "on-click": "swaync-client -t -sw",
     "on-click-right": "swaync-client -d -sw",
     "escape": true
+  },
+  "custom/menu": {
+  	"format": "",
+  	"on-click": "rofi -show drun"
   },
 }
 

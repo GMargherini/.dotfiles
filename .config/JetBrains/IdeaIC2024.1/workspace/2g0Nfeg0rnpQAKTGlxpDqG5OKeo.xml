@@ -1,0 +1,256 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="COMP47500_ADS_assignment_5" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:main" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="2opf3pzmjj0rt" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state>
+              <caret column="7" selection-start-column="7" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/experiments/Experiments.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="2860">
+              <caret line="130" column="10" selection-start-line="130" selection-start-column="10" selection-end-line="130" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/Graph/TopologicalSort.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="944">
+              <caret line="66" column="12" selection-start-line="66" selection-start-column="12" selection-end-line="66" selection-end-column="12" />
+              <folding>
+                <element signature="e#1004#1013#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Graph/DirectedGraph.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="88">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Graph/Graph.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="88">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 14,
+      "lastUsed": 1714999892154
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/Main.java" />
+      <option value="$PROJECT_DIR$/src/Graph/TopologicalSort.java" />
+      <option value="$PROJECT_DIR$/src/experiments/Experiments.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="14" lastUsage="1714999892154" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="COMP47500_ADS_assignment_5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Advanced Data Structures in Java/workspace/COMP47500_ADS_assignment_5}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="COMP47500_ADS_assignment_5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Advanced Data Structures in Java/workspace/COMP47500_ADS_assignment_5}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Advanced Data Structures in Java/workspace/COMP47500_ADS_assignment_5/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="COMP47500_ADS_assignment_5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Advanced Data Structures in Java/workspace/COMP47500_ADS_assignment_5}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Advanced Data Structures in Java/workspace/COMP47500_ADS_assignment_5/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Advanced Data Structures in Java/workspace/COMP47500_ADS_assignment_5/src/experiments}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="COMP47500_ADS_assignment_5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Advanced Data Structures in Java/workspace/COMP47500_ADS_assignment_5}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Advanced Data Structures in Java/workspace/COMP47500_ADS_assignment_5/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/University/Modules/Advanced Data Structures in Java/workspace/COMP47500_ADS_assignment_5/src/Graph}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Application.Experiments" />
+      <element setting="Application.Main" />
+    </history>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.16727558" />
+      <window_info active="true" id="Commit" order="1" visible="true" weight="0.16727558" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32999998" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Python Packages" order="4" />
+      <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.32999998" />
+      <window_info anchor="bottom" id="Services" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.33011484" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Python Console" order="5" />
+      <unified_weights bottom="0.32999998" left="0.16727558" right="0.33011484" />
+    </layoutV2>
+    <recentWindows>
+      <value>Run</value>
+      <value>Commit</value>
+      <value>Version Control</value>
+      <value>Notifications</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1834" height="304" key="GridCell.Tab.0.bottom" timestamp="1715011977544">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1834" height="304" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1715011977544" />
+    <state width="1834" height="304" key="GridCell.Tab.0.center" timestamp="1715011977544">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1834" height="304" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1715011977544" />
+    <state width="1834" height="304" key="GridCell.Tab.0.left" timestamp="1715011977544">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1834" height="304" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1715011977544" />
+    <state width="1834" height="304" key="GridCell.Tab.0.right" timestamp="1715011977544">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1834" height="304" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1715011977544" />
+    <state x="560" y="302" width="800" height="502" key="Vcs.Push.Dialog.v2" timestamp="1715012112048">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="302" width="800" height="502" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1715012112048" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Graph/DirectedGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Graph/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" lean-forward="true" selection-start-column="7" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/experiments/Experiments.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2860">
+          <caret line="130" column="10" selection-start-line="130" selection-start-column="10" selection-end-line="130" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Graph/TopologicalSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="944">
+          <caret line="66" column="12" selection-start-line="66" selection-start-column="12" selection-end-line="66" selection-end-column="12" />
+          <folding>
+            <element signature="e#1004#1013#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

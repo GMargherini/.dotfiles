@@ -1,0 +1,636 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="project 1" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/core/Game.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1496">
+              <caret line="68" column="20" selection-start-line="68" selection-start-column="20" selection-end-line="68" selection-end-column="20" />
+              <folding>
+                <element signature="e#14#184#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/core/Table.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/piles/Lane.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/deck/Deck.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/deck/Card.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+              <folding>
+                <element signature="e#14#77#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="704">
+              <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/MovesTest.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="682">
+              <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#367#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/piles/Pile.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1672">
+              <caret line="76" column="17" selection-start-line="76" selection-start-column="17" selection-end-line="76" selection-end-column="17" />
+              <folding>
+                <element signature="e#15#153#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/piles/SuitPile.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="8" column="67" selection-start-line="8" selection-start-column="67" selection-end-line="8" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="CLASS">
+      <summary usageCount="2" lastUsed="1697127164888" />
+    </fileType>
+    <fileType name="JAVA">
+      <summary usageCount="133" lastUsed="1702574015549" />
+    </fileType>
+    <fileType name="Kotlin">
+      <summary usageCount="20" lastUsed="1703106299294" />
+    </fileType>
+    <fileType name="XML">
+      <summary usageCount="14" lastUsed="1703106299107" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getSu</find>
+      <find />
+      <find>System.out.println(n</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/main/java/Pile.java" />
+      <option value="$PROJECT_DIR$/src/main/java/Deck/Pile.java" />
+      <option value="$PROJECT_DIR$/src/main/java/Deck/UncoverdPile.java" />
+      <option value="$PROJECT_DIR$/src/main/java/deck/UncoverdPile.java" />
+      <option value="$PROJECT_DIR$/src/main/java/InvalidMoveException.java" />
+      <option value="$PROJECT_DIR$/src/main/java/deck/piles/DrawPile.java" />
+      <option value="$PROJECT_DIR$/src/main/java/deck/piles/UncoverdPile.java" />
+      <option value="$PROJECT_DIR$/src/main/java/deck/Suit.java" />
+      <option value="$PROJECT_DIR$/src/main/java/deck/Rank.java" />
+      <option value="$PROJECT_DIR$/src/main/java/Table.java" />
+      <option value="$PROJECT_DIR$/src/main/java/Constants.java" />
+      <option value="$PROJECT_DIR$/src/main/java/Game.java" />
+      <option value="$PROJECT_DIR$/src/test/java/MovesUnitTest.java" />
+      <option value="$PROJECT_DIR$/src/main/java/Main.java" />
+      <option value="$PROJECT_DIR$/src/main/java/deck/piles/SuitPile.java" />
+      <option value="$PROJECT_DIR$/src/main/java/deck/piles/Lane.java" />
+      <option value="$PROJECT_DIR$/src/main/java/deck/Deck.java" />
+      <option value="$PROJECT_DIR$/src/main/java/deck/piles/Pile.java" />
+      <option value="$PROJECT_DIR$/src/main/java/core/Table.java" />
+      <option value="$PROJECT_DIR$/src/main/java/core/Game.java" />
+      <option value="$PROJECT_DIR$/src/main/java/deck/Card.java" />
+      <option value="$PROJECT_DIR$/src/main/java/core/Constants.kt" />
+      <option value="$PROJECT_DIR$/src/main/java/core/InvalidMoveException.kt" />
+      <option value="$PROJECT_DIR$/src/main/java/deck/Color.kt" />
+      <option value="$PROJECT_DIR$/src/main/java/deck/Rank.kt" />
+      <option value="$PROJECT_DIR$/src/main/java/piles/UncoverdPile.kt" />
+      <option value="$PROJECT_DIR$/src/main/java/Main.kt" />
+      <option value="$PROJECT_DIR$/src/main/java/piles/DrawPile.kt" />
+      <option value="$PROJECT_DIR$/src/main/java/piles/UncoveredPile.kt" />
+      <option value="$PROJECT_DIR$/src/main/java/piles/Pile.kt" />
+      <option value="$PROJECT_DIR$/src/main/java/deck/Suit.kt" />
+      <option value="$PROJECT_DIR$/src/main/java/piles/Lane.kt" />
+      <option value="$PROJECT_DIR$/pom.xml" />
+      <option value="$PROJECT_DIR$/src/test/java/MovesTest.kt" />
+      <option value="$PROJECT_DIR$/src/main/java/deck/Card.kt" />
+      <option value="$PROJECT_DIR$/src/main/java/core/Game.kt" />
+      <option value="$PROJECT_DIR$/src/main/java/core/Table.kt" />
+      <option value="$PROJECT_DIR$/src/main/java/deck/Deck.kt" />
+      <option value="$PROJECT_DIR$/src/main/java/piles/SuitPile.kt" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="133" lastUsage="1702574015549" />
+    </language>
+    <language id="XML">
+      <summary usageCount="14" lastUsage="1703106299107" />
+    </language>
+    <language id="kotlin">
+      <summary usageCount="20" lastUsage="1703106299294" />
+    </language>
+  </component>
+  <component name="MavenProjectNavigator">
+    <option name="groupStructurally" value="true" />
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="e529d0c5:RootNode" />
+          <item name="patience" type="20da4fc8:ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="solitaire" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/dolphin/Projects/Kotlin/solitaire}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="solitaire" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/dolphin/Projects/Kotlin/solitaire}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/Projects/Kotlin/solitaire/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="solitaire" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/dolphin/Projects/Kotlin/solitaire}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/Projects/Kotlin/solitaire/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/Projects/Kotlin/solitaire/src/main}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="solitaire" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/dolphin/Projects/Kotlin/solitaire}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/Projects/Kotlin/solitaire/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/Projects/Kotlin/solitaire/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/Projects/Kotlin/solitaire/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="solitaire" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/dolphin/Projects/Kotlin/solitaire}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/Projects/Kotlin/solitaire/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/Projects/Kotlin/solitaire/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/Projects/Kotlin/solitaire/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/Projects/Kotlin/solitaire/src/main/java/piles}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="solitaire" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/dolphin/Projects/Kotlin/solitaire}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/Projects/Kotlin/solitaire/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/Projects/Kotlin/solitaire/src/test}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="solitaire" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/dolphin/Projects/Kotlin/solitaire}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/Projects/Kotlin/solitaire/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/Projects/Kotlin/solitaire/src/test}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dolphin/Projects/Kotlin/solitaire/src/test/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="JUnit.MovesTest" />
+      <element setting="Maven.patience" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="solitaire-history">
+        <shellCommand>
+          <arg value="/bin/bash" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MovesUnitTest - 2023.10.10 at 17h 53m 44s.xml">
+      <configuration name="MovesUnitTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MovesUnitTest - 2023.10.10 at 17h 54m 03s.xml">
+      <configuration name="MovesUnitTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MovesUnitTest - 2023.10.10 at 17h 59m 25s.xml">
+      <configuration name="MovesUnitTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MovesUnitTest - 2023.10.10 at 18h 04m 50s.xml">
+      <configuration name="MovesUnitTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MovesUnitTest - 2023.10.10 at 18h 06m 32s.xml">
+      <configuration name="MovesUnitTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MovesUnitTest - 2023.10.10 at 18h 06m 54s.xml">
+      <configuration name="MovesUnitTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MovesUnitTest - 2023.10.10 at 22h 14m 11s.xml">
+      <configuration name="MovesUnitTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MovesUnitTest - 2023.10.11 at 00h 10m 05s.xml">
+      <configuration name="MovesUnitTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MovesUnitTest - 2023.10.11 at 00h 10m 37s.xml">
+      <configuration name="MovesUnitTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MovesTest - 2023.12.14 at 17h 15m 04s.xml">
+      <configuration name="MovesTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5483707" visible="true" weight="0.14103234" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info active="true" id="Structure" order="2" sideWeight="0.45162934" side_tool="true" visible="true" weight="0.14103234" />
+      <window_info anchor="bottom" id="Find" weight="0.32969642" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.32969642" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.3037072" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.3037072" />
+      <window_info anchor="bottom" id="Services" order="5" />
+      <window_info anchor="bottom" id="Build" order="6" weight="0.3037072" />
+      <window_info anchor="bottom" id="Python Packages" order="7" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.40559775" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.3297706" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.3297706" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" />
+      <unified_weights bottom="0.3037072" left="0.14103234" right="0.3297706" />
+    </layoutV2>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11015625" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Find" weight="0.32969642" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.32969642" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info active="true" anchor="bottom" id="Run" order="4" visible="true" weight="0.32969642" />
+      <window_info anchor="bottom" id="Services" order="5" />
+      <window_info anchor="bottom" id="Build" order="6" weight="0.32969642" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.32969642" left="0.11015625" />
+    </layout-to-restore>
+    <recentWindows>
+      <value>Notifications</value>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Build</value>
+      <value>Maven</value>
+      <value>Terminal</value>
+      <value>Structure</value>
+      <value>Problems View</value>
+      <value>Find</value>
+      <value>Debug</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="229" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1702573940355">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="229" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1702573940355" />
+    <state x="745" y="284" key="#com.intellij.ide.util.MemberChooser" timestamp="1702565885091">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="745" y="284" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1702565885091" />
+    <state x="560" y="253" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1697123587290">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="253" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1697123587290" />
+    <state x="737" y="437" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog" timestamp="1696957378293">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="737" y="437" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1696957378293" />
+    <state width="405" height="185" key="DebuggerActiveHint" timestamp="1697019513397">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="405" height="185" key="DebuggerActiveHint/0.0.1920.1080@0.0.1920.1080" timestamp="1697019513397" />
+    <state x="748" y="326" key="FileChooserDialogImpl" timestamp="1702573794272">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="748" y="326" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1702573794272" />
+    <state width="1836" height="277" key="GridCell.Tab.0.bottom" timestamp="1702574384309">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1836" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1702574384309" />
+    <state width="1836" height="277" key="GridCell.Tab.0.center" timestamp="1702574384309">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1836" height="277" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1702574384309" />
+    <state width="1836" height="277" key="GridCell.Tab.0.left" timestamp="1702574384309">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1836" height="277" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1702574384309" />
+    <state width="1836" height="277" key="GridCell.Tab.0.right" timestamp="1702574384309">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1836" height="277" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1702574384309" />
+    <state width="1838" height="385" key="GridCell.Tab.1.bottom" timestamp="1697020759137">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="385" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1697020759137" />
+    <state width="1838" height="385" key="GridCell.Tab.1.center" timestamp="1697020759137">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="385" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1697020759137" />
+    <state width="1838" height="385" key="GridCell.Tab.1.left" timestamp="1697020759137">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="385" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1697020759137" />
+    <state width="1838" height="385" key="GridCell.Tab.1.right" timestamp="1697020759137">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="385" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1697020759137" />
+    <state x="498" y="226" key="Maven.ArtifactSearchDialog" timestamp="1702564712975">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="498" y="226" key="Maven.ArtifactSearchDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1702564712975" />
+    <state x="469" y="203" key="SettingsEditor" timestamp="1702573881087">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="469" y="203" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1702573881087" />
+    <state x="624" y="256" key="run.anything.popup" timestamp="1696936066827">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="624" y="256" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1696936066827" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="setValue">
+      <expression>
+        <expression-string>4</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/exceptions/InvalidMoveException.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/deck/piles/DrawPile.java" />
+    <entry file="jrt:///usr/lib/jvm/java-1.21.0-openjdk-amd64!/java.base/java/lang/Thread.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/core.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/deck/piles/Lane.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/deck/piles/SuitPile.java" />
+    <entry file="jrt:///usr/lib/jvm/java-1.21.0-openjdk-amd64!/java.base/java/util/List.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/deck/piles/UncoverdPile.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/deck/piles/Pile.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/MovesUnitTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/core/Constants.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/core/InvalidMoveException.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/piles/UncoveredPile.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/piles/DrawPile.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/deck/Color.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.4.10/kotlin-stdlib-1.4.10-sources.jar!/kotlin/Enum.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="36" column="24" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/deck/Suit.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/deck/Rank.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/core/Game.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="68" column="20" selection-start-line="68" selection-start-column="20" selection-end-line="68" selection-end-column="20" />
+          <folding>
+            <element signature="e#14#184#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/core/Table.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/deck/Deck.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/deck/Card.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+          <folding>
+            <element signature="e#14#77#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/MovesTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#367#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/piles/Pile.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1672">
+          <caret line="76" column="17" selection-start-line="76" selection-start-column="17" selection-end-line="76" selection-end-column="17" />
+          <folding>
+            <element signature="e#15#153#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/piles/SuitPile.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="8" column="67" selection-start-line="8" selection-start-column="67" selection-end-line="8" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/piles/Lane.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI" />
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI" />
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Kotlin|patience</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: junit:junit:4.13.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

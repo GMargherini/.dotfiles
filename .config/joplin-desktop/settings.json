@@ -23,7 +23,7 @@
 			{
 				"key": "noteList",
 				"width": 250,
-				"visible": false
+				"visible": true
 			},
 			{
 				"key": "editor",

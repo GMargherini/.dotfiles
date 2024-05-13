@@ -30,7 +30,7 @@
         "description": "Date format",
         "dependency": "use-custom-format",
         "tooltip": "Set your custom format here.",
-        "value": "                %H:%M%n%A, %d %B "
+        "value": "%t   %H:%M%n%A, %d %B "
     },
     "custom-tooltip-format": {
         "type": "entry",

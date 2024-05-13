@@ -66,8 +66,6 @@ com.jetbrains.performancePlugin|Other Tools
 
 com.jetbrains.sh|Languages
 
-com.jetbrains.space|null
-
 hg4idea|Version Controls
 
 intellij.indexing.shared.core|null

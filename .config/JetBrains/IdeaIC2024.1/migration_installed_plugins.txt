@@ -1,0 +1,4 @@
+Docker
+org.intellij.scala
+com.jetbrains.space
+PythonCore

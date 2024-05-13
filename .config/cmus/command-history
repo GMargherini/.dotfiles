@@ -1,2 +1,10 @@
+repeat
+add Music
 add Music/
+add /Music
+quit
+clear
+add Music/Davide Van de Sfroos/
+refresh
+reload
 add
