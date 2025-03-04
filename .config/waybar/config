@@ -7,11 +7,12 @@
     ],
 
     "modules-center": [
-    	"clock"
-//    	"custom/notification"
+    	"clock",
+    	"custom/weather"
     ],
 
     "modules-right": [
+    	"custom/media",
     	"network",
     	"temperature",
     	"cpu",
@@ -19,7 +20,8 @@
     	"pulseaudio",
     	"backlight",
     	"battery",
-    	"tray"
+    	"tray",
+    	"custom/notification"
     ],
 
     // Modules configuration
@@ -146,12 +148,13 @@
     },
     "network": {
         // "interface": "wlp2*", // (Optional) To force the use of this interface
-        "format-wifi": "{essid} ({signalStrength}%) ",
+        "format-wifi": " {essid} ({signalStrength}%)",
         "format-ethernet": " {ifname}",
         "tooltip-format": " {ifname} via {gwaddr}",
         "format-linked": " {ifname} (No IP)",
         "format-disconnected": "Disconnected ⚠ {ifname}",
-        "format-alt": " {ifname}: {ipaddr}/{cidr}"
+        "format-alt": " {ifname}: {ipaddr}/{cidr}",
+        "on-click-right": "kitty -- nmtui &"
     },
     "pulseaudio": {
         // "scroll-step": 1, // %, can be a float
@@ -163,26 +166,14 @@
         "format-source-muted": "",
         "format-icons": {
             "headphone": "",
-//            "hands-free": "",
-//            "headset": "",
+            "hands-free": "",
+            "headset": "",
             "phone": "",
             "portable": "",
             "car": "",
             "default": ["", "", ""]
         },
-        "on-click": "pavucontrol"
-    },
-    "custom/media": {
-        "format": "{icon} {}",
-        "return-type": "json",
-        "max-length": 40,
-        "format-icons": {
-            "spotify": "",
-            "default": "🎜"
-        },
-        "escape": true,
-        "exec": "$HOME/.config/waybar/mediaplayer.py 2> /dev/null" // Script in resources folder
-        // "exec": "$HOME/.config/waybar/mediaplayer.py --player spotify 2> /dev/null" // Filter player based on name
+        "on-click": "GSK_RENDERER=ngl pwvucontrol"
     },
     "custom/separator": {
         "format": "|",
@@ -210,8 +201,13 @@
     "escape": true
   },
   "custom/menu": {
-  	"format": "",
-  	"on-click": "rofi -show drun"
+  	"format": "",
+  	"on-click": "wofi --show drun -I -W 500",
+  	"tooltip-format": "Launcher"
   },
+  "custom/weather": {
+  	"format": "{text}",
+  	"exec": "curl wttr.in/?format=\"%c+%t\"",
+  	"tooltip": false
+  }
 }
-
