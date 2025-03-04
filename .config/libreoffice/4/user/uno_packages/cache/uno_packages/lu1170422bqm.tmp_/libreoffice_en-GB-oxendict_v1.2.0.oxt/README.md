@@ -1,1 +1,0 @@
-# libreoffice_en-GB-oxendict
