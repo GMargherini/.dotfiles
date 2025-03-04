@@ -1,7 +1,0 @@
-# This file is created by ibus-daemon, please do not modify it.
-# This file allows processes on the machine to find the
-# ibus session bus with the below address.
-# If the IBUS_ADDRESS environment variable is set, it will
-# be used rather than this file.
-IBUS_ADDRESS=unix:path=/home/dolphin/.cache/ibus/dbus-BOEboJAn,guid=8306cc5803fdc880c4c31b59663ceda3
-IBUS_DAEMON_PID=70490
