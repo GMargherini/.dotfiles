@@ -4,6 +4,9 @@
 #
 # Read `man 5 sway` for a complete reference.
 
+exec /usr/lib/polkit-kde-authentication-agent-1
+exec swaync-client
+
 ### Variables
 #
 # Logo key (Mod4). Use Mod1 for Alt.
@@ -15,56 +18,29 @@ set $up Up
 set $right Right
 
 # Your preferred terminal emulator
-set $term x-terminal-emulator
+set $term kitty
 
 # Your preferred application launcher
 # Note: pass the final command to swaymsg so that the resulting window can be opened
 # on the original workspace that the command was run on.
-set $menu "rofi -modi drun -show drun -show-icons -sort"
+set $menu "wofi --show drun -I -W 500"
 
 
 include /etc/sway/config-vars.d/*
-
-font FiraCode Medium 12
-seat seat0 xcursor_theme Bibata-Modern-Ice 24
-### Output configuration
-#
-# Default wallpaper (more resolutions are available in /usr/share/backgrounds/sway/)
-# Example configuration:
-#
-
-output eDP-1 resolution 1920x1080 position 0,0
-output DP-1	resolution 3840x2160 scale 2
- 
-output HDMI-A-1 resolution 1920x1080
-
-output "*" bg /home/dolphin/Pictures/Sfondi/1080/stormy\ field.jpg fill
-output eDP-1 mode 1920x1080@60.004002Hz
-
-#output eDP-1 disable
-#output DP-1  resolution 1920x1080
-#
-# You can get the names of your outputs by running: swaymsg -t get_outputs
-
-
-
-### Idle configuration
-#
-# Example configuration:
-#
-#exec swayidle -w \
-#         timeout 300 'swaylock -f -c 000000' \
-#         timeout 600 'swaymsg "output * dpms off"' resume 'swaymsg "output * dpms on"' \
-#         before-sleep 'swaylock -e -f -c 444444'
+include /etc/sway/config.d/*
+include config.d/*
 
 bindsym $mod+l exec swaylock -C ~/.config/swaylock/config
 
- set {
-    $nag         exec swaynagmode
+set {
+    $nag         exec swaynagmode --background 221C35 --border-bottom ba55d3 \
+                     --text ffffff --button-background 221C35 --button-text ffffff \
+                     --button-border-size 2 --border ba55d3
+
     $nag_exit    $nag --exit
     $nag_confirm $nag --confirm
     $nag_select  $nag --select
-  }
+}
  mode "nag" {
     bindsym {
       Ctrl+d    mode "default"
@@ -85,35 +61,7 @@ bindsym $mod+l exec swaylock -C ~/.config/swaylock/config
       Down      $nag_select prev
     }
   }
-bindsym $mod+Shift+Escape $nag -t warning -m 'Exit' -B 'Reboot' 'reboot' -B 'Power off' 'poweroff'
-#
-# This will lock your screen after 300 seconds of inactivity, then turn off
-# your displays after another 300 seconds, and turn your screens back on when
-# resumed. It will also lock your screen before your computer goes to sleep.
 
-### Input configuration
-#
-# Example configuration:
-#
-
-
-input "1267:12738:ELAN0752:00_04F3:31C2_Touchpad" {
-      dwt enabled
-      tap enabled
-      natural_scroll enabled
-      middle_emulation enabled
-  }
-
-input "1:1:AT_Translated_Set_2_keyboard" {
-    xkb_layout "it"
-    xkb_options "grp:lctrl_lwin_toggle"
-}
-
-input * xkb_options compose:rctrl
-input type:keyboard xkb_numlock enabled
-
-# You can get the names of your inputs by running: swaymsg -t get_inputs
-# Read `man 5 sway-input` for more information about this section.
 
 ### Key bindings
 #
@@ -127,6 +75,7 @@ input type:keyboard xkb_numlock enabled
 
     # Start your launcher
     bindsym XF86Launch2 exec $menu
+    bindsym $mod+Shift+Return exec $menu
 
     # Drag floating windows by holding down $mod and left mouse button.
     # Resize them with right mouse button + $mod.
@@ -140,162 +89,7 @@ input type:keyboard xkb_numlock enabled
 
     # Exit sway (logs you out of your Wayland session)
     bindsym $mod+Shift+e exec $nag -t warning -m 'You pressed the exit shortcut. Do you really want to exit sway? This will end your Wayland session.' -B 'Yes, exit sway' 'swaymsg exit'
-#
-# Moving around:
-#
-    # Move your focus around
-    bindsym $mod+$left focus left
-    bindsym $mod+$down focus down
-    bindsym $mod+$up focus up
-    bindsym $mod+$right focus right
-
-    # Move the focused window with the same, but add Shift	
-    bindsym $mod+Shift+$left move left
-    bindsym $mod+Shift+$down move down
-    bindsym $mod+Shift+$up move up
-    bindsym $mod+Shift+$right move right
-#
-# Workspaces:
-#
-    # Switch to workspace
-    bindsym $mod+1 workspace number 1
-    bindsym $mod+2 workspace number 2
-    bindsym $mod+3 workspace number 3
-    bindsym $mod+4 workspace number 4
-    bindsym $mod+5 workspace number 5
-    bindsym $mod+6 workspace number 6
-    bindsym $mod+7 workspace number 7
-    bindsym $mod+8 workspace number 8
-    bindsym $mod+9 workspace number 9
-    bindsym $mod+0 workspace number 10
-    # Move focused container to workspace
-    bindsym $mod+Shift+1 move container to workspace number 1
-    bindsym $mod+Shift+2 move container to workspace number 2
-    bindsym $mod+Shift+3 move container to workspace number 3
-    bindsym $mod+Shift+4 move container to workspace number 4
-    bindsym $mod+Shift+5 move container to workspace number 5
-    bindsym $mod+Shift+6 move container to workspace number 6
-    bindsym $mod+Shift+7 move container to workspace number 7
-    bindsym $mod+Shift+8 move container to workspace number 8
-    bindsym $mod+Shift+9 move container to workspace number 9
-    bindsym $mod+Shift+0 move container to workspace number 10
-    # Note: workspaces can have any name you want, not just numbers.
-    # We just use 1-10 as the default.
-#
-# Layout stuff:
-#
-    # You can "split" the current object of your focus with
-    # $mod+h or $mod+v, for horizontal and vertical splits
-    # respectively.
-    bindsym $mod+h splith
-    bindsym $mod+v splitv
-
-    # Switch the current container between different layout styles
-    bindsym $mod+s layout stacking
-    bindsym $mod+w layout tabbed
-    bindsym $mod+e layout toggle split
-
-    # Make the current focus fullscreen
-    bindsym $mod+f fullscreen
-
-    # Toggle the current focus between tiling and floating mode
-    bindsym $mod+Shift+space floating toggle
-
-    # Swap focus between the tiling area and the floating area
-    bindsym $mod+space focus mode_toggle
-
-    # Move focus to the parent container
-    bindsym $mod+a focus parent
-#
-# Scratchpad:
-#
-    # Sway has a "scratchpad", which is a bag of holding for windows.
-    # You can send windows there and get them back later.
-
-    # Move the currently focused window to the scratchpad
-    bindsym $mod+Shift+minus move scratchpad
-
-    # Show the next scratchpad window or hide the focused scratchpad window.
-    # If there are multiple scratchpad windows, this command cycles through them.
-    bindsym $mod+minus scratchpad show
-#
-# Resizing containers:
-#
-mode "resize" {
-    # left will shrink the containers width
-    # right will grow the containers width
-    # up will shrink the containers height
-    # down will grow the containers height
-    bindsym $left resize shrink width 10px
-    bindsym $down resize grow height 10px
-    bindsym $up resize shrink height 10px
-    bindsym $right resize grow width 10px
-
-    # Return to default mode
-    bindsym Return mode "default"
-    bindsym Escape mode "default"
-}
-bindsym $mod+r mode "resize"
-
-include /etc/sway/config.d/*
-
-# Start swaybar to display a workspace bar (plus the system information i3status
-# finds out, if available)
-#exec swaync &
-bar {
-		swaybar_command waybar
-		hidden_state hide
-		mode dock
-		gaps 0
-		position top
-        status_command i3status
-        tray_bindsym button2 ContextMenu
-        icon_theme Tela-green
-		colors {
-			background #000000
-			separator #ffffff
-			statusline #ffffff
-			focused_workspace #AA55AA #AA55AA #ffffff
-			inactive_workspace #000000 #000000 #ffffff
-			active_workspace #626262 #000000 #ffffff
-			urgent_workspace #faa41a #8C3333 #ffffff
-		}       
-}
-
-# Inner gaps for all windows: space between two adjacent windows (or split containers).
-# gaps inner <gap_size>[px]
-gaps inner 0px
-
-# Outer gaps for all windows: space along the screen edges.
-# gaps outer|horizontal|vertical|top|left|bottom|right <gap_size>[px]
-gaps bottom 0px
-
-# Inner and outer gaps for all windows on a specific workspace.
-# <ws> can be a workspace number or name.
-# workspace <ws> gaps inner <gap_size>[px]
-# workspace <ws> gaps outer|horizontal|vertical|top|left|bottom|right <gap_size>[px]
-
-# Enabling “Smart Gaps” means no gaps will be shown when there is
-# precisely one window or split container on the workspace.
-#
-# inverse_outer only enables outer gaps when there is exactly one
-# window or split container on the workspace.
-# smart_gaps on|off|inverse_outer
-
-smart_gaps off
-default_border pixel 2
-default_floating_border normal
-titlebar_padding 1
-titlebar_border_thickness 0
-
-# class                 border  backgr. text    indicator child_border
-client.focused          #BA55D3 #BA55D3 #ffffff #BA55D3   #BA55D3
-client.focused_inactive #333333 #5f676a #ffffff #484e50   #5f676a
-client.unfocused        #333333 #222222 #888888 #292d2e   #222222
-client.urgent           #2f343a #BA55D3 #ffffff #BA55D3   #BA55D3
-client.placeholder      #000000 #0c0c0c #ffffff #000000   #0c0c0c
-
-
+	bindsym $mod+Shift+Escape $nag -t warning -m 'Exit' -B 'Reboot' 'reboot' -B 'Power off' 'poweroff'
 
 # Function keys
 bindsym XF86MonBrightnessDown exec light -U 5
@@ -316,4 +110,4 @@ bindgesture swipe:up exec $menu
 bindgesture swipe:down exec ydotool key esc
 #bindgesture pinch:inward kill
 
-bindsym $mod+Tab exec rofi -show window -show-icons
+# bindsym $mod+Tab exec rofi -show window -show-icons
