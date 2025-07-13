@@ -1,0 +1,85 @@
+$bg-color: #222;
+$bg-gradient: linear-gradient(rgba(100,100,100,0.9) 0% , rgba(0,0,0,0.9) 100%);
+$bg-hover: #808080;
+$fg-color: white;
+$shadow: -2px -2px black inset,  2px 2px black inset;
+$item-border-radius: 4px;
+$item-border: 1px solid gray;
+/* The name of the window itself */
+#window {
+	background-color: transparent;
+	/*box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);*/
+	font-size: 1.2rem;
+	/* The name of the box that contains everything */
+	#outer-box {
+		margin: 8px;
+		background: $bg-gradient;
+		/* The name of the search bar */
+		#input {
+			background-color: white;
+			color: $fg-color;
+			border-radius: $item-border-radius;
+			padding: 0.8rem 1rem;
+			margin: 8px;
+			font-size: 1.5rem;
+			box-shadow: $shadow;
+			&:focus, &:focus-visible, &:active {
+				outline: 2px solid transparent;
+			}
+		}
+
+		/* The name of the scrolled window containing all of the entries */
+		#scroll {
+			margin: 8px;
+			border-radius: $item-border-radius;
+			/* The name of the box containing all of the entries */
+			background-color: $bg-color;
+			scrollbar {
+				&:focus, &:hover {
+					background: rgba(255,255,255,0.1);
+				}
+			}
+			#inner-box {
+				/* The name of all entries */
+				#entry {
+					border-radius: $item-border-radius;
+					border: $item-border;
+					color: $fg-color; 
+					background: $bg-gradient;;
+					box-shadow: 1px 1px white inset, -2px -2px $shadow inset;
+					padding: 0.5rem;
+					margin: 1px;
+
+					/* The name of all images in entries displayed in image mode */
+					#img {
+						width: 2rem;
+						margin-right: 0.5rem;
+						margin-left: 0.5rem;
+					}
+					/* The name of all the text in entries */
+					#text {
+						padding: 10px;
+					}
+					&:selected, &:hover {
+						background: $bg-color;
+		                border: $item-border;
+		                box-shadow: $shadow;
+					}
+					
+				}
+				/* The name of all boxes shown when expanding  */
+				/* entries with multiple actions */
+				#expander-box {
+					border-radius: 0;
+					color: $fg-color; 
+					background-color: $bg-color;
+					box-shadow: $shadow;
+					padding: 0.5rem;
+				}
+			}
+		}
+	}
+}
+
+
+

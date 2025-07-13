@@ -1,0 +1,181 @@
+* {
+  font-family: "FiraCode Medium";
+  font-size: 16px;
+  min-height: 20px;
+  background-color: transparent;
+  border-radius: 0px; }
+
+window#waybar {
+  color: #DBDEE9;
+  background-color: transparent;
+  margin-top: 5px; }
+
+#workspaces button {
+  background: transparent;
+  padding: 0px 4px;
+  color: #DBDEE9;
+  box-shadow: none;
+  text-shadow: none; }
+  #workspaces button:hover {
+    border: none;
+    color: #81A1C1;
+    box-shadow: none;
+    text-shadow: none; }
+  #workspaces button.active {
+    border: none;
+    color: #81A1C1;
+    box-shadow: none;
+    text-shadow: none; }
+  #workspaces button.urgent {
+    border: none;
+    color: red;
+    box-shadow: none;
+    text-shadow: none; }
+
+tooltip {
+  background: transparent;
+  border: none; }
+
+tooltip label {
+  background-color: #2E3440;
+  padding: 4px;
+  border: 2px solid #81A1C1;
+  border-radius: 8px; }
+
+#tray window decoration {
+  background-color: #2E3440;
+  padding: 4px;
+  border: 2px solid #81A1C1;
+  border-radius: 8px; }
+
+#clock {
+  background: #2E3440;
+  margin-right: 1px;
+  padding: 0 4px;
+  border-radius: 9px 0 0 9px; }
+
+#custom-weather {
+  background: #2E3440;
+  margin-left: 1px;
+  padding: 0 4px;
+  border-radius: 0 9px 9px 0; }
+
+#custom-notification {
+  background-color: #2E3440;
+  padding: 0 4px;
+  border-radius: 0 9px 9px 0; }
+
+.modules-left {
+  background-color: #2E3440;
+  border: solid 1px #81A1C1;
+  border-radius: 10px;
+  margin: 0 2px;
+  padding: 0px 0px; }
+  .modules-left > widget:first-child > #workspaces {
+    margin-left: 0; }
+  .modules-left > widget:first-child > #custom-menu {
+    margin-left: 0; }
+
+.modules-center {
+  background-color: #81A1C1;
+  border: solid 2px #81A1C1;
+  border-radius: 10px;
+  padding: 0 0px; }
+
+.modules-right {
+  background-color: #81A1C1;
+  border: solid 2px #81A1C1;
+  border-radius: 10px;
+  margin: 0;
+  padding: 0; }
+
+#keyboard-state {
+  background-color: #2E3440;
+  padding-right: 8px;
+  padding-left: 4px;
+  margin-right: 2px;
+  border-radius: 9px 0 0 9px; }
+
+#mpris {
+  background-color: #2E3440;
+  padding: 0 4px;
+  margin-right: 2px; }
+
+#cpu {
+  background-color: #BF616A;
+  padding: 0 4px; }
+
+#temperature {
+  background-color: #A3BE8C;
+  padding: 0 4px; }
+
+#memory {
+  background-color: #B48EAD;
+  padding: 0 4px; }
+
+#backlight {
+  background-color: #D08770;
+  padding: 0 4px; }
+
+#wireplumber, #battery, #tray, #network {
+  padding: 0 4px;
+  background-color: #2E3440; }
+
+#network:hover, #wireplumber:hover,
+#battery:hover, #custom-notification:hover,
+#mpris:hover {
+  background-color: #81A1C1; }
+
+#custom-menu {
+  color: #DBDEE9;
+  background-color: #2E3440;
+  padding: 4 8px;
+  border-radius: 9px 0 0 9px; }
+  #custom-menu:hover {
+    background-color: #81A1C1; }
+
+#custom-separator {
+  color: #81A1C1; }
+
+#battery icon {
+  color: red; }
+
+#battery.critical:not(.charging) {
+  color: red;
+  animation-name: blink;
+  animation-duration: 0.5s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  animation-direction: alternate; }
+
+#battery.charging, #battery.plugged {
+  color: lime; }
+
+#battery.warning:not(.charging) {
+  color: yellow;
+  animation-name: blink;
+  animation-duration: 0.5s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  animation-direction: alternate; }
+
+label:focus {
+  background-color: black; }
+
+#temperature.critical {
+  color: #eb4d4b; }
+
+#idle_inhibitor.activated {
+  background-color: #ecf0f1;
+  color: #2d3436; }
+
+#tray > .passive {
+  -gtk-icon-effect: dim; }
+
+#tray > .needs-attention {
+  -gtk-icon-effect: highlight;
+  background-color: #eb4d4b; }
+
+#tray * {
+  padding-left: 0px;
+  padding-right: 0px; }

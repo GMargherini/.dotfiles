@@ -1,0 +1,342 @@
+$cc-bg: #c0c0c0
+$noti-border-color: rgba(255, 255, 255, 0.15)
+$noti-bg: rgba(48, 48, 48, 0.8)
+$noti-bg-opaque: rgb(0, 0, 0)
+$noti-bg-darker: rgb(38, 38, 38)
+$noti-bg-hover: rgb(56, 56, 56)
+$noti-bg-hover-opaque: rgb(56, 56, 56)
+$noti-bg-focus: rgba(68, 68, 68, 0.6)
+$noti-close-bg: rgba(255, 255, 255, 0.1)
+$noti-close-bg-hover: rgba(255, 255, 255, 0.15)
+$text-color: black
+$text-color-disabled: rgb(150, 150, 150)
+$bg-selected: #808080
+$shadow: #808080
+$dark-shadow: black
+
+$button-shadow: 1px 1px white inset, -2px -2px $shadow inset
+$button-selected-shadow: 2px 2px $dark-shadow inset
+$data-shadow: -1px -1px white inset, 1px 1px $shadow inset
+
+.notification-row 
+	outline: none 
+.notification-row:focus, .notification-row:hover 
+	background: $noti-bg-focus 
+.notification-row 
+	.notification-background 
+		padding: 6px 12px 
+		.close-button 
+			background: $noti-close-bg 
+			color: $text-color 
+			text-shadow: none 
+			padding: 0 
+			border-radius: 100% 
+			margin-top: 5px 
+			margin-right: 5px 
+			box-shadow: none 
+			border: none 
+			min-width: 24px 
+			min-height: 24px 
+			&:hover 
+				box-shadow: none 
+				background: $noti-close-bg-hover 
+				transition: background 0.15s ease-in-out 
+				border: none 
+		.notification 
+			border-radius: 12px 
+			border: 1px solid $noti-border-color 
+			padding: 0 
+			transition: background 0.15s ease-in-out 
+			background: $noti-bg 
+			&.low 
+			&.normal 
+			&.critical 
+			.notification-default-action 
+				border-radius: 12px 
+				&:not(:only-child) 
+					border-bottom-left-radius: 0px 
+					border-bottom-right-radius: 0px 
+				.notification-content 
+					background: transparent 
+					border-radius: 12px 
+					padding: 4px 
+					.image 
+						-gtk-icon-effect: none 
+						border-radius: 100px 
+						margin: 4px 
+					.app-icon 
+						-gtk-icon-effect: none 
+						-gtk-icon-shadow: 0 1px 4px black 
+						margin: 6px 
+					.text-box 
+						.summary 
+							font-size: 16px 
+							font-weight: bold 
+							background: transparent 
+							color: $text-color 
+							text-shadow: none 
+						.time 
+							font-size: 16px 
+							font-weight: bold 
+							background: transparent 
+							color: $text-color 
+							text-shadow: none 
+							margin-right: 30px 
+						.body 
+							font-size: 15px 
+							font-weight: normal 
+							background: transparent 
+							color: $text-color 
+							text-shadow: none 
+					progressbar 
+						margin-top: 4px 
+					.body-image 
+						margin-top: 4px 
+						background-color: white 
+						border-radius: 12px 
+						-gtk-icon-effect: none 
+					.inline-reply 
+						margin-top: 4px 
+						.inline-reply-entry 
+							background: $noti-bg-darker 
+							color: $text-color 
+							caret-color: $text-color 
+							border: 1px solid $noti-border-color 
+							border-radius: 12px 
+						.inline-reply-button 
+							margin-left: 4px 
+							background: $noti-bg 
+							border: 1px solid $noti-border-color 
+							border-radius: 12px 
+							color: $text-color 
+							&:disabled 
+								background: initial 
+								color: $text-color-disabled 
+								border: 1px solid $noti-border-color 
+								border-color: transparent 
+							&:hover 
+								background: $noti-bg-hover 
+			.notification-action 
+				border-top: 1px solid $noti-border-color 
+				border-radius: 0px 
+				border-right: 1px solid $noti-border-color 
+				&:first-child 
+					border-bottom-left-radius: 12px 
+				&:last-child 
+					border-bottom-right-radius: 12px 
+					border-right: none 
+.notification-row .notification-background .notification .notification-action, .notification-row .notification-background .notification .notification-default-action 
+	padding: 4px 
+	margin: 0 
+	box-shadow: none 
+	background: transparent 
+	border: none 
+	color: $text-color 
+	transition: background 0.15s ease-in-out 
+.notification-row .notification-background .notification .notification-action:hover, .notification-row .notification-background .notification .notification-default-action:hover 
+	-gtk-icon-effect: none 
+	background: $noti-bg-hover 
+.notification-group 
+	&.low 
+	&.normal 
+	&.critical 
+	.notification-group-headers 
+		.notification-group-icon 
+			color: $text-color 
+		.notification-group-header 
+			color: $text-color 
+	.notification-group-buttons 
+	&.collapsed 
+		.notification-row 
+			.notification 
+				background-color: $noti-bg-opaque 
+			&:not(:last-child) 
+		&:hover 
+			.notification-row 
+				&:not(:only-child) 
+					.notification 
+						background-color: $noti-bg-hover-opaque 
+.notification-group .notification-group-buttons, .notification-group .notification-group-headers 
+	margin: 0 16px 
+	color: $text-color 
+.notification-group.collapsed .notification-row:not(:last-child) .notification-action,
+.notification-group.collapsed .notification-row:not(:last-child) .notification-default-action 
+	opacity: 0 
+	
+.control-center 
+	background: $cc-bg 
+	color: $text-color 
+	border-radius: 0px 
+	box-shadow: $data-shadow
+	.control-center-list-placeholder 
+		opacity: 0.5 
+	.control-center-list 
+		background: transparent 
+		.notification 
+			box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.3), 0 1px 3px 1px rgba(0, 0, 0, 0.7), 0 2px 6px 2px rgba(0, 0, 0, 0.3) 
+.control-center .control-center-list .notification .notification-default-action,
+.control-center .control-center-list .notification .notification-action 
+	transition: opacity 400ms ease-in-out, background 0.15s ease-in-out 
+.control-center .control-center-list .notification .notification-default-action:hover,
+.control-center .control-center-list .notification .notification-action:hover 
+	background-color: $noti-bg-hover 
+.blank-window 
+	background: transparent 
+.floating-notifications 
+	background: transparent 
+	.notification 
+		box-shadow: none 
+
+.widget-title 
+	color: $text-color 
+	margin: 8px 
+	font-size: 1.5rem 
+	& > button 
+		font-size: initial 
+		color: $text-color 
+		text-shadow: none 
+		background: $cc-bg
+		box-shadow: $button-shadow
+		border-radius: 0px 
+		&:hover 
+			background: $bg-selected 
+			box-shadow: $button-selected-shadow
+.widget-dnd 
+	color: $text-color 
+	margin: 8px 
+	font-size: 1.1rem 
+	& > switch 
+		font-size: initial 
+		border-radius: 0 
+		background: $cc-bg 
+		box-shadow: $data-shadow
+		&:checked 
+			background: #008080
+			box-shadow: none 
+		slider 
+			background: $cc-bg
+			box-shadow: $button-shadow 
+			border-radius: 0px 
+.widget-label 
+	margin: 8px 
+	& > label 
+		font-size: 1.1rem 
+$mpris-album-art-overlay: rgba(0, 0, 0, 0.55)
+$mpris-button-hover: rgba(0, 0, 0, 0.50)
+.widget-mpris 
+	padding: 2px 
+	margin: 8px 
+	background: $cc-bg 
+	color: black 
+	border-radius: 0px
+	box-shadow: -1px -1px white inset, 1px 1px $shadow inset
+	.widget-mpris-player 
+		background: $cc-bg 
+		color: black 
+		border-radius: 0px
+		box-shadow: 0 0
+		margin: 0
+		.widget-mpris-album-art 
+			border-radius: 0 
+			box-shadow: 0 0
+		.widget-mpris-title 
+			font-weight: bold 
+			font-size: 1.25rem 
+		.widget-mpris-subtitle 
+			font-size: 1.1rem 
+		& > box 
+			& > button 
+				color: black
+				border-radius: 0
+				margin: 2px 8px
+				box-shadow: 1px 1px white inset, -2px -2px $shadow inset
+				&:hover 
+					background-color: $bg-selected
+					box-shadow: 2px 2px $dark-shadow inset
+	& > box 
+		& > button 
+			color: black
+			border-radius: 0
+			box-shadow: 1px 1px white inset, -2px -2px $shadow inset
+			&:disabled 
+			&:hover 
+				background-color: $bg-selected
+				box-shadow: 2px 2px $dark-shadow inset
+.widget-buttons-grid 
+	padding: 8px 
+	margin: 8px 
+	background: $cc-bg 
+	color: black 
+	border-radius: 0px
+	box-shadow: -1px -1px white inset, 1px 1px $shadow inset 
+	& > flowbox 
+		& > flowboxchild 
+			& > button 
+				background: $cc-bg 
+				color: black 
+				border-radius: 0px
+				box-shadow: 1px 1px white inset, -2px -2px $shadow inset
+				&.toggle 
+					&:checked
+				&:hover
+					background-color: $bg-selected
+					box-shadow: 2px 2px $dark-shadow inset
+					 
+.widget-menubar 
+	& > box 
+		& > .menu-button-bar 
+			& > button 
+				border: none 
+				background: transparent 
+.topbar-buttons 
+	& > button 
+		border: none 
+		background: transparent 
+.widget-volume 
+	background-color: $cc-bg 
+	color: $text-color
+	padding: 8px 
+	margin: 8px 
+	border-radius: 0px 
+	box-shadow: -1px -1px white inset, 1px 1px $shadow inset
+	& > box 
+		& > button 
+			background: transparent 
+			border: none 
+			box-shadow: 1px 1px white inset, -2px -2px $shadow inset
+			&.toggle 
+				&:checked
+			&:hover
+				background-color: $bg-selected
+				box-shadow: 2px 2px $dark-shadow inset
+		& > scale
+			color: #008080
+			& > contents
+				& > trough
+					& > slider
+						background: none
+						border-radius: 0
+						padding: 6px
+.per-app-volume 
+	background-color: $noti-bg 
+	padding: 4px 8px 8px 8px 
+	margin: 0px 8px 8px 8px 
+	border-radius: 12px 
+.widget-backlight 
+	background-color: $noti-bg 
+	padding: 8px 
+	margin: 8px 
+	border-radius: 12px 
+.widget-inhibitors 
+	margin: 8px 
+	font-size: 1.5rem 
+	& > button 
+		font-size: initial 
+		color: $text-color 
+		text-shadow: none 
+		background: $noti-bg 
+		border: 1px solid $noti-border-color 
+		box-shadow: none 
+		border-radius: 12px 
+		&:hover 
+			background: $noti-bg-hover 

@@ -1,0 +1,147 @@
+$main-color: MediumOrchid
+$bg-color: #221C35
+$bg-hover: rgba(34, 28, 53, 0.5)
+$fg-color: white
+$debian: #A80030
+
+* 
+	font-family: "FiraCode Medium" 
+	font-size: 16px 
+	min-height: 20px 
+	background-color: transparent 
+	border-radius: 8px 
+window#waybar 
+	color: $fg-color 
+	background-color: transparent 
+#workspaces 
+	button  
+		background: $bg-color 
+		color: $fg-color  
+		margin: 2px 
+		border: 1px solid $bg-color
+		border-radius: 16px 
+		padding: 2px 
+		&:hover
+			border: 1px solid $main-color
+		&.focused  
+			color: $main-color 
+			background: $bg-color 
+			border: 1px solid $main-color
+		&.urgent 
+			background: red 
+			color: white
+			border: 1px solid white
+
+tooltip 
+	background-color: $bg-color 
+	border: 2px solid $main-color 
+	border-radius: 8px 
+#clock 
+	background: $bg-color
+	margin-right: 1px
+	border-radius: 8px 0 0 8px
+	padding: 0 4px	
+#custom-weather
+	background: $bg-color
+	margin-left: 1px 
+	border-radius: 0 8px 8px 0
+	padding: 0 4px
+#custom-notification 
+	margin-right: 2px 
+	background-color: $bg-color 
+	margin: 0 
+	padding: 0 4px 
+	border-radius: 0 8px 8px 0 
+.modules-left 
+	background-color: $bg-color 
+	background-image: linear-gradient(yellow, white, purple, black) 
+	margin: 2px 
+	padding: 0 0px 
+	border-radius: 8px 
+	& > widget 
+		&:first-child 
+			& > #workspaces 
+				margin-left: 0 
+			& > #custom-menu 
+				margin-left: 0 
+.modules-center 
+	background-color: $bg-color
+	background-image: linear-gradient(black, $main-color, black)  
+	margin: 2px 
+	padding: 0px 
+	border-radius: 8px 
+.modules-right 
+	background-color: $bg-color 
+	background-image: linear-gradient(black, $main-color, black) 
+	margin: 2px 
+	padding: 0 
+	border-radius: 8px 
+#network 
+	background-color: $bg-color 
+	margin-right: 2px 
+	padding: 0 4px 
+	border-radius: 8px 0 0 8px 
+	&.disconnected 
+		color: red
+#cpu, #temperature, #memory, #pulseaudio, 
+#backlight, #battery, #tray 
+	margin-right: 2px 
+	padding: 0 4px 
+	background-color: $bg-color 
+	border-radius: 0px 
+#network:hover, #pulseaudio:hover,
+#battery:hover, #custom-notification:hover 
+	background-color: transparent 
+#custom-menu 
+	color: $fg-color 
+	background-color: $bg-color 
+	padding: 4 8px 
+	margin: 0px 2px 
+	border-radius: 8px 0 0 8px 
+	&:hover 
+		background-color: $bg-hover
+		background-image: linear-gradient(black, $main-color, black)
+#custom-separator 
+	color: $main-color 
+#battery 
+	icon 
+		color: red 
+	&.critical 
+		&:not(.charging) 
+			color: red
+			animation-name: blink 
+			animation-duration: 0.5s 
+			animation-timing-function: linear 
+			animation-iteration-count: infinite 
+			animation-direction: alternate 
+#battery.charging, #battery.plugged 
+	color: lime
+
+#battery 
+	&.warning 
+		&:not(.charging) 
+			color: yellow 
+			animation-name: blink 
+			animation-duration: 0.5s 
+			animation-timing-function: linear 
+			animation-iteration-count: infinite 
+			animation-direction: alternate 
+label 
+	&:focus 
+		background-color: black 
+#temperature 
+	&.critical 
+		color: #eb4d4b 
+#idle_inhibitor 
+	&.activated 
+		background-color: #ecf0f1 
+		color: #2d3436 
+#tray 
+	& > .passive 
+		-gtk-icon-effect: dim 
+	& > .needs-attention 
+		-gtk-icon-effect: highlight 
+		background-color: #eb4d4b 
+	* 
+		padding-left: 0px 
+		padding-right: 0px 

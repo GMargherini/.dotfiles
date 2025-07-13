@@ -1,0 +1,8 @@
+ignore-empty-password
+image=$HOME/Pictures/Wallpapers/1080/pixel\ city.png
+scaling=fill
+
+#indicator-idle-visible
+line-uses-inside
+indicator-radius=40
+inside-color=00000000

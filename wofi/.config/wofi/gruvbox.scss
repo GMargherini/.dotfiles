@@ -1,0 +1,80 @@
+$main-color: #d5c4a1;
+$bg-color: #282828;
+$fg-color: #fbf1c7;
+/* The name of the window itself */
+#window {
+	background-color: transparent;
+	/*box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);*/
+	border-radius: 8px;
+	border: 2px solid $main-color;
+	font-size: 1.2rem;
+	/* The name of the box that contains everything */
+	#outer-box {
+		border: 2px solid $main-color;
+		border-radius: 8px;
+		background-color: transparent;
+		/* The name of the search bar */
+		#input {
+			background-color: $bg-color;
+			color: $fg-color;
+			border: none;
+			padding: 0.8rem 1rem;
+			font-size: 1.5rem;
+			border-radius: 8px 8px 0 0;
+			border-bottom: 1px solid $main-color;
+			&:focus, &:focus-visible, &:active {
+				outline: 2px solid transparent;
+				border-radius: 8px 8px 0 0;
+			}
+		}
+
+		/* The name of the scrolled window containing all of the entries */
+		#scroll {
+			/* The name of the box containing all of the entries */
+			background-color: $bg-color;
+			border-radius: 0 0 8px 8px;
+			scrollbar {
+				&:focus, &:hover {
+					background: rgba(255,255,255,0.1);
+				}
+			}
+			#inner-box {
+				/* The name of all entries */
+				#entry {
+					color: #fff; 
+					background-color: rgba(24,24,24,0.1);
+					padding: 0.5rem;
+					border: 1px solid $main-color
+
+					/* The name of all images in entries displayed in image mode */
+					#img {
+						width: 2rem;
+						margin-right: 0.5rem;
+						margin-left: 0.5rem;
+					}
+					/* The name of all the text in entries */
+					#text {
+						padding: 10px;
+					}
+					&:selected {
+						color: #fff; 
+						background-color: rgba(255,255,255,0.1);
+						outline: none;
+					}
+					
+				}
+				/* The name of all boxes shown when expanding  */
+				/* entries with multiple actions */
+				#expander-box {
+					background-color: rgba(255,255,255,0.1);
+					margin: 2px;
+					border-radius: 8px;
+					color: white;
+				}
+			}
+		}
+	}
+}
+
+
+

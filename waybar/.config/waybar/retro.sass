@@ -1,0 +1,168 @@
+$bg-color: #c0c0c0
+$bg-hover: #808080
+$fg-color: black
+$shadow: #808080
+$dark-shadow: black
+
+* 
+	font-family: "FiraCode Medium" 
+	font-size: 16px
+	min-height: 1em
+	background-color: transparent 
+	border-radius: 0
+window#waybar 
+	color: $fg-color 
+	background: $bg-color
+
+tooltip
+	background: none
+	border: none
+	border-radius: 0px 
+	box-shadow: none
+	padding: 0px
+	
+tooltip label, #tray window decoration
+	background-color: $bg-color 
+	color: $fg-color
+	padding: 0.5em
+	margin: 0px
+	box-shadow: -1px -1px white inset, 1px 1px $shadow inset
+
+#workspaces 
+	button  
+		background: $bg-color 
+		color: $fg-color   
+		border-radius: 0px 
+		padding: 0 2px 
+		box-shadow: 1px 1px white inset, -2px -2px $shadow inset
+		&:hover, &.focused
+			background-color: $bg-hover
+			box-shadow: 2px 2px $dark-shadow inset
+		&.urgent 
+			background-color: red 
+			color: white
+button 
+	background: $bg-color 
+	color: $fg-color 
+	margin: 0px 0px 
+	margin-right: 2px 
+	border-radius: 8px 
+	&:hover
+		background-color: $bg-hover
+	
+#clock 
+	background: transparent
+	margin-right: 1px
+	padding: 0 4px	
+	
+#custom-weather
+	background: transparent
+	margin-left: 1px 
+	padding: 0 4px
+
+#custom-fuzzy_clock
+	background: transparent
+	margin-left: 1px 
+	padding: 0 4px
+
+
+.modules-left 
+	background: transparent 
+	margin: 2px 
+	padding: 0 0px 
+	border-radius: 8px 
+	& > widget 
+		&:first-child 
+			& > #workspaces 
+				margin-left: 0 
+			& > #custom-menu 
+				margin-left: 0 
+.modules-center 
+	background: $bg-color
+	margin: 2px 
+	padding: 0px
+	box-shadow: -1px -1px white inset, 1px 1px $shadow inset
+	
+.modules-right 
+	background: transparent
+	margin: 2px 
+	padding: 0 
+	border-radius: 8px 
+
+	
+#network.disconnected 
+		color: red
+
+#network, #pulseaudio, #battery, #custom-notification 
+	margin-right: 2px 
+	padding: 0 4px 
+	background-color: $bg-color 
+	border-radius: 0px 
+	box-shadow: 1px 1px white inset, -2px -2px $shadow inset
+
+	
+#network:hover, #pulseaudio:hover,
+#battery:hover, #custom-notification:hover 
+	background-color: $bg-hover
+	box-shadow: 2px 2px $dark-shadow inset
+
+#cpu, #temperature, #memory,
+#backlight, #tray
+	margin-right: 2px 
+	padding: 0 4px 
+	background-color: $bg-color 
+	border-radius: 0px 
+	box-shadow: -1px -1px white inset, 1px 1px $shadow inset
+	
+#custom-menu 
+	color: $fg-color 
+	background-color: $bg-color 
+	padding: 4 8px 
+	margin: 0px 2px 
+	box-shadow: 1px 1px white inset, -2px -2px $shadow inset
+	&:hover
+		background-color: $bg-hover
+		box-shadow: 2px 2px $dark-shadow inset
+	
+#battery 
+	icon 
+		color: red 
+	&.critical 
+		&:not(.charging) 
+			color: red
+			animation-name: blink 
+			animation-duration: 0.5s 
+			animation-timing-function: linear 
+			animation-iteration-count: infinite 
+			animation-direction: alternate 
+#battery.charging, #battery.plugged 
+	color: green
+
+#battery 
+	&.warning 
+		&:not(.charging) 
+			color: yellow 
+			animation-name: blink 
+			animation-duration: 0.5s 
+			animation-timing-function: linear 
+			animation-iteration-count: infinite 
+			animation-direction: alternate 
+label 
+	&:focus 
+		background-color: black 
+#temperature 
+	&.critical 
+		color: #eb4d4b 
+#idle_inhibitor 
+	&.activated 
+		background-color: #ecf0f1 
+		color: #2d3436 
+#tray 
+	& > .passive 
+		-gtk-icon-effect: dim 
+	& > .needs-attention 
+		-gtk-icon-effect: highlight 
+		background-color: #eb4d4b 
+	* 
+		padding-left: 0px 
+		padding-right: 0px 
